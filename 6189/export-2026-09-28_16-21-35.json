@@ -1,0 +1,1252 @@
+{
+  "version": 6,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 6189,
+  "exportedAt": "2026-09-28T20:21:35.022Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 15159,
+      "visibleId": 15159,
+      "name": "Christina Kebbit-Monkfish",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1575,
+        "y": 2942,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 2469,
+          "timestamp": 1790372429522,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 483,
+      "samples": 483,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 482,
+      "estimateRevisions": 0,
+      "spawnUid": "25db83ff-0564-4525-8fd7-1164bf0b5544",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 32982,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 32982,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 196,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5936,
+      "visibleId": 5936,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1597,
+        "y": 2942,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 79,
+          "timestamp": 1790374131819,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 100,
+      "samples": 100,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 99,
+      "estimateRevisions": 0,
+      "spawnUid": "3f9b01bf-bf63-4ac0-afd7-2417815b1d99",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4145,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4145,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 7207,
+      "visibleId": 7207,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1596,
+        "y": 2940,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 82,
+          "timestamp": 1790374133621,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 90,
+      "samples": 89,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 89,
+      "estimateRevisions": 0,
+      "spawnUid": "546529b5-083c-49de-bc11-4335c9d02f27",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4143,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4143,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 7207,
+      "visibleId": 7207,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1598,
+        "y": 2941,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 82,
+          "timestamp": 1790374133621,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 106,
+      "samples": 106,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 105,
+      "estimateRevisions": 0,
+      "spawnUid": "e6d203ca-5b31-4bae-a32e-cf2f543e0cc5",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4148,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4148,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 7207,
+      "visibleId": 7207,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1599,
+        "y": 2935,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 85,
+          "timestamp": 1790374135448,
+          "to": 0
+        },
+        {
+          "tick": 1194,
+          "timestamp": 1790626824100,
+          "from": 0,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 141,
+      "samples": 141,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 140,
+      "estimateRevisions": 0,
+      "spawnUid": "7b0108ac-a1cc-4de1-9064-ed3e43347dde",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4152,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4152,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 366
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 7207,
+      "visibleId": 7207,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1599,
+        "y": 2927,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 768,
+      "facing": "NORTH_WEST",
+      "orientationChanges": [
+        {
+          "tick": 210,
+          "timestamp": 1790374210432,
+          "to": 0
+        },
+        {
+          "tick": 1198,
+          "timestamp": 1790626826507,
+          "from": 0,
+          "to": 768
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 78,
+      "samples": 78,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 77,
+      "estimateRevisions": 0,
+      "spawnUid": "db90d58d-f036-4cf8-b4a3-f1e1bf6a8468",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4151,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4151,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 365
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5936,
+      "visibleId": 5936,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1598,
+        "y": 2926,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1792,
+      "facing": "SOUTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 211,
+          "timestamp": 1790374211032,
+          "to": 1024
+        },
+        {
+          "tick": 1199,
+          "timestamp": 1790626827136,
+          "from": 1024,
+          "to": 1792
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 78,
+      "samples": 77,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 77,
+      "estimateRevisions": 0,
+      "spawnUid": "c4224520-9858-42aa-a265-9e4e919457dd",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4147,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4147,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 365
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 7207,
+      "visibleId": 7207,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1598,
+        "y": 2925,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 211,
+          "timestamp": 1790374211032,
+          "to": 1024
+        },
+        {
+          "tick": 1199,
+          "timestamp": 1790626827136,
+          "from": 1024,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 78,
+      "samples": 78,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 77,
+      "estimateRevisions": 0,
+      "spawnUid": "20211c27-15a9-4f61-8de0-bcd46881713a",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4146,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4146,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 365
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5936,
+      "visibleId": 5936,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1599,
+        "y": 2920,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 256,
+      "facing": "SOUTH_WEST",
+      "orientationChanges": [
+        {
+          "tick": 214,
+          "timestamp": 1790374212839,
+          "to": 512
+        },
+        {
+          "tick": 1202,
+          "timestamp": 1790626828904,
+          "from": 512,
+          "to": 256
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 132,
+      "samples": 132,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 131,
+      "estimateRevisions": 0,
+      "spawnUid": "77446d01-600d-4835-a242-3b559242cccd",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4150,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4150,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 365
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 7207,
+      "visibleId": 7207,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1594,
+        "y": 2918,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1280,
+      "facing": "NORTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 215,
+          "timestamp": 1790374213439,
+          "to": 0
+        },
+        {
+          "tick": 1203,
+          "timestamp": 1790626829498,
+          "from": 0,
+          "to": 1280
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 128,
+      "samples": 128,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 127,
+      "estimateRevisions": 0,
+      "spawnUid": "51038243-d473-4c2a-9d51-f73dcc5eaeba",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4141,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4141,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 364
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5936,
+      "visibleId": 5936,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1593,
+        "y": 2916,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 216,
+          "timestamp": 1790374214017,
+          "to": 1024
+        },
+        {
+          "tick": 1204,
+          "timestamp": 1790626830089,
+          "from": 1024,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 122,
+      "samples": 122,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 121,
+      "estimateRevisions": 0,
+      "spawnUid": "d533d1bd-0117-4ad6-855f-7cf5bd4b0ce4",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4139,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4139,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 364
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5936,
+      "visibleId": 5936,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1592,
+        "y": 2917,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 256,
+      "facing": "SOUTH_WEST",
+      "orientationChanges": [
+        {
+          "tick": 218,
+          "timestamp": 1790374215213,
+          "to": 0
+        },
+        {
+          "tick": 1203,
+          "timestamp": 1790626829498,
+          "from": 0,
+          "to": 256
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 119,
+      "samples": 119,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 118,
+      "estimateRevisions": 0,
+      "spawnUid": "f0407013-1754-4730-82cf-558c1e6a8ce9",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4137,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4137,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 364
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 7207,
+      "visibleId": 7207,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1589,
+        "y": 2914,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 219,
+          "timestamp": 1790374215835,
+          "to": 0
+        },
+        {
+          "tick": 1205,
+          "timestamp": 1790626830705,
+          "from": 0,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 104,
+      "samples": 104,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 103,
+      "estimateRevisions": 0,
+      "spawnUid": "98bdfe90-15bc-41e7-9579-8ceef691fb82",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4135,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4135,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 198,
+        "y": 364
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5936,
+      "visibleId": 5936,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1597,
+        "y": 2910,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 219,
+          "timestamp": 1790374215835,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 125,
+      "samples": 125,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 124,
+      "estimateRevisions": 0,
+      "spawnUid": "8b06b556-fa07-46fd-97f6-0541f313d335",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4144,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4144,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 363
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5936,
+      "visibleId": 5936,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1589,
+        "y": 2906,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 225,
+          "timestamp": 1790374219428,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 94,
+      "samples": 94,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 93,
+      "estimateRevisions": 0,
+      "spawnUid": "cffe0717-a00b-4623-905c-1928985999f4",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4134,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4134,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 198,
+        "y": 363
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5936,
+      "visibleId": 5936,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1599,
+        "y": 2905,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 272,
+          "timestamp": 1790374247643,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 71,
+      "samples": 71,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 70,
+      "estimateRevisions": 0,
+      "spawnUid": "9c3e13d7-6b68-4cb2-956a-e891afa2aff2",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4149,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4149,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 363
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 7207,
+      "visibleId": 7207,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1594,
+        "y": 2904,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 272,
+          "timestamp": 1790374247643,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 58,
+      "samples": 58,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 57,
+      "estimateRevisions": 0,
+      "spawnUid": "cec88218-e444-463c-90c6-7e7229b80c76",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4140,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 363
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5936,
+      "visibleId": 5936,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1592,
+        "y": 2905,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 272,
+          "timestamp": 1790374247643,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 53,
+      "samples": 53,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 52,
+      "estimateRevisions": 0,
+      "spawnUid": "3af46d59-d965-43f0-958d-1b0c4bae41a5",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4136,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 363
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 7207,
+      "visibleId": 7207,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1593,
+        "y": 2903,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 273,
+          "timestamp": 1790374248223,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 54,
+      "samples": 54,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 53,
+      "estimateRevisions": 0,
+      "spawnUid": "e5501395-1d1b-42bc-87a1-069aedbae839",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4138,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 362
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 7207,
+      "visibleId": 7207,
+      "name": "Sandy rocks",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1596,
+        "y": 2901,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 277,
+          "timestamp": 1790374250623,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 59,
+      "samples": 59,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 58,
+      "estimateRevisions": 0,
+      "spawnUid": "e1febe4a-08f4-4939-aa1d-7fa7b6d8be45",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4142,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 4142,
+          "revision": 240
+        }
+      ],
+      "regionId": 6189,
+      "chunk": {
+        "x": 199,
+        "y": 362
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [],
+  "deletedUids": [],
+  "pools": [],
+  "objects": []
+}

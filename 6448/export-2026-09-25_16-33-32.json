@@ -1,0 +1,76 @@
+{
+  "version": 4,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 6448,
+  "exportedAt": "2026-09-25T20:33:32.692Z",
+  "gameRevision": 241,
+  "npcs": [],
+  "groundItems": [
+    {
+      "itemId": 2313,
+      "name": "Pie dish",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1604,
+        "y": 3099,
+        "plane": 0
+      },
+      "height": 96,
+      "surface": {
+        "kind": "game",
+        "id": 52458,
+        "type": 10,
+        "orientation": 2,
+        "supportsItems": true,
+        "x": 1604,
+        "y": 3099,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52458,
+          "type": 10,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1604,
+          "y": 3099,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 5243,
+          "type": 22,
+          "orientation": 0,
+          "supportsItems": true,
+          "x": 1604,
+          "y": 3099,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 2,
+      "itemSpawnUid": "cbb4a846-b455-4be0-ab8c-7a1f25558e72",
+      "regionId": 6448,
+      "chunk": {
+        "x": 200,
+        "y": 387
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 3
+      }
+    }
+  ],
+  "deletedUids": []
+}

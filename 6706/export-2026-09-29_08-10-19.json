@@ -1,0 +1,131 @@
+{
+  "version": 6,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 6706,
+  "exportedAt": "2026-09-29T12:10:19.586Z",
+  "gameRevision": 240,
+  "npcs": [],
+  "groundItems": [
+    {
+      "itemId": 1937,
+      "name": "Jug of water",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1667,
+        "y": 3249,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 46950,
+        "type": 22,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1667,
+        "y": 3249,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 46950,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1667,
+          "y": 3249,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "483fb351-b751-448d-bc7f-c44a5bc2df65",
+      "regionId": 6706,
+      "chunk": {
+        "x": 208,
+        "y": 406
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 2309,
+      "name": "Bread",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1669,
+        "y": 3250,
+        "plane": 0
+      },
+      "height": 96,
+      "surface": {
+        "kind": "game",
+        "id": 52460,
+        "type": 10,
+        "orientation": 2,
+        "supportsItems": true,
+        "x": 1669,
+        "y": 3250,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52460,
+          "type": 10,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1669,
+          "y": 3250,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 46951,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1669,
+          "y": 3250,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "a868375a-8424-473d-8142-a721029e65d3",
+      "regionId": 6706,
+      "chunk": {
+        "x": 208,
+        "y": 406
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 6
+      }
+    }
+  ],
+  "deletedUids": [],
+  "pools": [],
+  "objects": []
+}

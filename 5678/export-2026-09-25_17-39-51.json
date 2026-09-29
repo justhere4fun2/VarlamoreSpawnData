@@ -1,0 +1,240 @@
+{
+  "version": 4,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 5678,
+  "exportedAt": "2026-09-25T21:39:51.084Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 15234,
+      "visibleId": 15234,
+      "name": "Dolphin",
+      "size": 3,
+      "combatLevel": 22,
+      "spawn": {
+        "x": 1458,
+        "y": 3004,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 669,
+          "timestamp": 1790367708703,
+          "to": 1024
+        },
+        {
+          "tick": 1590,
+          "timestamp": 1790371901927,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 1637,
+          "timestamp": 1790371930127,
+          "from": 512,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 64,
+      "samples": 64,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 13,
+      "estimateRevisions": 1,
+      "spawnUid": "f8cdfb1b-5977-419c-bb1b-9709e0dd6b71",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 494,
+          "index": 2508,
+          "revision": 241
+        },
+        {
+          "world": 402,
+          "index": 2508,
+          "revision": 240
+        }
+      ],
+      "regionId": 5678,
+      "chunk": {
+        "x": 182,
+        "y": 375
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 15234,
+      "visibleId": 15234,
+      "name": "Dolphin",
+      "size": 3,
+      "combatLevel": 22,
+      "spawn": {
+        "x": 1468,
+        "y": 3001,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 723,
+          "timestamp": 1790367741157,
+          "to": 1536
+        },
+        {
+          "tick": 742,
+          "timestamp": 1790367752531,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 779,
+          "timestamp": 1790367774725,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 788,
+          "timestamp": 1790367780121,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 1614,
+          "timestamp": 1790371916331,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 1982,
+          "timestamp": 1790372137149,
+          "from": 1536,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 117,
+      "samples": 117,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 49,
+      "estimateRevisions": 1,
+      "spawnUid": "8984f78d-86d6-47cc-9a61-6c05af4be0b5",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 494,
+          "index": 2511,
+          "revision": 241
+        },
+        {
+          "world": 402,
+          "index": 2511,
+          "revision": 240
+        }
+      ],
+      "regionId": 5678,
+      "chunk": {
+        "x": 183,
+        "y": 375
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 15236,
+      "visibleId": 15236,
+      "name": "Dolphin calf",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1468,
+        "y": 2995,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 768,
+      "facing": "NORTH_WEST",
+      "orientationChanges": [
+        {
+          "tick": 1603,
+          "timestamp": 1790371909726,
+          "to": 1024
+        },
+        {
+          "tick": 1931,
+          "timestamp": 1790372106555,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 1939,
+          "timestamp": 1790372111347,
+          "from": 1536,
+          "to": 768
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 74,
+      "samples": 74,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 3,
+      "estimateRevisions": 3,
+      "spawnUid": "d6c7af1c-0898-4d4d-afba-c702ab2e0d1a",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 2510,
+          "revision": 240
+        }
+      ],
+      "regionId": 5678,
+      "chunk": {
+        "x": 183,
+        "y": 374
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [],
+  "deletedUids": []
+}

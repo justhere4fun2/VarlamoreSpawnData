@@ -1,0 +1,74 @@
+{
+  "version": 6,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 5164,
+  "exportedAt": "2026-09-28T20:21:35.022Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 15216,
+      "visibleId": 15216,
+      "name": "Butterfly ray",
+      "size": 2,
+      "combatLevel": 68,
+      "spawn": {
+        "x": 1339,
+        "y": 2851,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 10623,
+          "timestamp": 1790602253012,
+          "to": 1024
+        },
+        {
+          "tick": 10658,
+          "timestamp": 1790602273988,
+          "from": 1024,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 54,
+      "samples": 54,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 0,
+      "estimateRevisions": 1,
+      "spawnUid": "c20ce206-6f6b-4fb5-91a2-0c8a767d88ae",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 792,
+          "revision": 240
+        }
+      ],
+      "regionId": 5164,
+      "chunk": {
+        "x": 167,
+        "y": 356
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [],
+  "deletedUids": [],
+  "pools": [],
+  "objects": []
+}

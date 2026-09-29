@@ -1,0 +1,216 @@
+{
+  "version": 4,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 6193,
+  "exportedAt": "2026-09-25T21:39:51.084Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 5007,
+      "visibleId": 5007,
+      "name": "Imp",
+      "size": 1,
+      "combatLevel": 2,
+      "spawn": {
+        "x": 1591,
+        "y": 3142,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 25,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 1030,
+          "timestamp": 1790371565873,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 37,
+      "samples": 37,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 1,
+      "estimateRevisions": 0,
+      "spawnUid": "d2a118f6-9801-4404-9122-953474698740",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 494,
+          "index": 4869,
+          "revision": 241
+        },
+        {
+          "world": 402,
+          "index": 4869,
+          "revision": 240
+        }
+      ],
+      "regionId": 6193,
+      "chunk": {
+        "x": 198,
+        "y": 392
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 0
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12982,
+      "visibleId": 12982,
+      "name": "Jerboa",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1589,
+        "y": 3140,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 11,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 1096,
+          "timestamp": 1790369067889,
+          "to": 1536
+        },
+        {
+          "tick": 1017,
+          "timestamp": 1790371558077,
+          "from": 1536,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 51,
+      "samples": 51,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 23,
+      "estimateRevisions": 1,
+      "spawnUid": "bf22c3fb-5014-49c0-a362-c95c9d4d4d2d",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 494,
+          "index": 4325,
+          "revision": 241
+        },
+        {
+          "world": 402,
+          "index": 4325,
+          "revision": 240
+        }
+      ],
+      "regionId": 6193,
+      "chunk": {
+        "x": 198,
+        "y": 392
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 0
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12982,
+      "visibleId": 12982,
+      "name": "Jerboa",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1543,
+        "y": 3142,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1280,
+      "facing": "NORTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 1089,
+          "timestamp": 1790371601285,
+          "to": 1280
+        },
+        {
+          "tick": 1137,
+          "timestamp": 1790371630073,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 1161,
+          "timestamp": 1790371644484,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 1170,
+          "timestamp": 1790371649884,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 1178,
+          "timestamp": 1790371654704,
+          "from": 1024,
+          "to": 1280
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 83,
+      "samples": 83,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 9,
+      "estimateRevisions": 1,
+      "spawnUid": "be40074a-8ba2-460e-a567-4a0dc3d9389c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 402,
+          "index": 4318,
+          "revision": 240
+        }
+      ],
+      "regionId": 6193,
+      "chunk": {
+        "x": 192,
+        "y": 392
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 0
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [],
+  "deletedUids": []
+}

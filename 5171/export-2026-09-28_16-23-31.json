@@ -1,0 +1,178 @@
+{
+  "version": 6,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 5171,
+  "exportedAt": "2026-09-28T20:23:31.848Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 1419,
+      "visibleId": 1419,
+      "name": "Raccoon",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1342,
+        "y": 3323,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 23,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 28035,
+          "timestamp": 1790458451827,
+          "to": 512
+        },
+        {
+          "tick": 28210,
+          "timestamp": 1790458556835,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 28229,
+          "timestamp": 1790458568261,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 28263,
+          "timestamp": 1790458588661,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 70,
+      "samples": 70,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 1,
+      "estimateRevisions": 12,
+      "spawnUid": "864d4932-6bcd-4ba2-b757-0805e62c6200",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 1943,
+          "revision": 240
+        },
+        {
+          "world": 320,
+          "index": 1943,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 1943,
+          "revision": 240
+        }
+      ],
+      "regionId": 5171,
+      "chunk": {
+        "x": 167,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [
+    {
+      "itemId": 954,
+      "name": "Rope",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1326,
+        "y": 3318,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 55125,
+        "type": 22,
+        "orientation": 3,
+        "supportsItems": true,
+        "x": 1326,
+        "y": 3318,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 55125,
+          "type": 22,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1326,
+          "y": 3318,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 2,
+      "itemSpawnUid": "d577ba19-e872-4ff6-9019-4d7e2e6994f7",
+      "regionId": 5171,
+      "chunk": {
+        "x": 165,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 590,
+      "name": "Tinderbox",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1327,
+        "y": 3319,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 2,
+      "itemSpawnUid": "db6269c3-6cb5-4fdf-b342-d2e5e8d82ca3",
+      "regionId": 5171,
+      "chunk": {
+        "x": 165,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 6
+      }
+    }
+  ],
+  "deletedUids": [],
+  "pools": [],
+  "objects": []
+}

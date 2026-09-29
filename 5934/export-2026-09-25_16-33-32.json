@@ -1,0 +1,399 @@
+{
+  "version": 4,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 5934,
+  "exportedAt": "2026-09-25T20:33:32.692Z",
+  "gameRevision": 241,
+  "npcs": [
+    {
+      "npcId": 12983,
+      "visibleId": 12983,
+      "name": "Toucan",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1499,
+        "y": 3004,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 730,
+          "timestamp": 1790367745342,
+          "to": 1024
+        },
+        {
+          "tick": 737,
+          "timestamp": 1790367749546,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 788,
+          "timestamp": 1790367780121,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 815,
+          "timestamp": 1790367796359,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 836,
+          "timestamp": 1790367808927,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 849,
+          "timestamp": 1790367816734,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 863,
+          "timestamp": 1790367825134,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 880,
+          "timestamp": 1790367835329,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 900,
+          "timestamp": 1790367847320,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 904,
+          "timestamp": 1790367849740,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 912,
+          "timestamp": 1790367854555,
+          "from": 512,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 163,
+      "samples": 163,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 34,
+      "estimateRevisions": 2,
+      "spawnUid": "0f0e6877-da74-4891-ba6b-b6ec0119374e",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 494,
+          "index": 3174,
+          "revision": 241
+        }
+      ],
+      "regionId": 5934,
+      "chunk": {
+        "x": 187,
+        "y": 375
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [
+    {
+      "itemId": 2351,
+      "name": "Iron bar",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1513,
+        "y": 2995,
+        "plane": 0
+      },
+      "height": 96,
+      "surface": {
+        "kind": "game",
+        "id": 52458,
+        "type": 10,
+        "orientation": 3,
+        "supportsItems": true,
+        "x": 1513,
+        "y": 2995,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 2
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52458,
+          "type": 10,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1513,
+          "y": 2995,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 2
+        },
+        {
+          "kind": "ground",
+          "id": 52377,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1513,
+          "y": 2995,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "579ca468-2f37-48a4-8684-8719450b536e",
+      "regionId": 5934,
+      "chunk": {
+        "x": 189,
+        "y": 374
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 2347,
+      "name": "Hammer",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1513,
+        "y": 2996,
+        "plane": 0
+      },
+      "height": 96,
+      "surface": {
+        "kind": "game",
+        "id": 52458,
+        "type": 10,
+        "orientation": 3,
+        "supportsItems": true,
+        "x": 1513,
+        "y": 2995,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 2
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52458,
+          "type": 10,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1513,
+          "y": 2995,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 2
+        },
+        {
+          "kind": "wall",
+          "id": 52375,
+          "type": 0,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1513,
+          "y": 2996,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 52377,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1513,
+          "y": 2996,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "76c8fcec-63e5-44c3-9714-2335a01fd994",
+      "regionId": 5934,
+      "chunk": {
+        "x": 189,
+        "y": 374
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 314,
+      "name": "Feather",
+      "quantity": 5,
+      "count": 1,
+      "spawn": {
+        "x": 1506,
+        "y": 2984,
+        "plane": 0
+      },
+      "height": 96,
+      "surface": {
+        "kind": "game",
+        "id": 52458,
+        "type": 10,
+        "orientation": 0,
+        "supportsItems": true,
+        "x": 1506,
+        "y": 2984,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52458,
+          "type": 10,
+          "orientation": 0,
+          "supportsItems": true,
+          "x": 1506,
+          "y": 2984,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 52377,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1506,
+          "y": 2984,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 2,
+      "itemSpawnUid": "67c2458c-90cf-445e-bf10-a5b2d143916f",
+      "regionId": 5934,
+      "chunk": {
+        "x": 188,
+        "y": 373
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 305,
+      "name": "Big fishing net",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1507,
+        "y": 2984,
+        "plane": 0
+      },
+      "height": 96,
+      "surface": {
+        "kind": "game",
+        "id": 52458,
+        "type": 10,
+        "orientation": 0,
+        "supportsItems": true,
+        "x": 1506,
+        "y": 2984,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52458,
+          "type": 10,
+          "orientation": 0,
+          "supportsItems": true,
+          "x": 1506,
+          "y": 2984,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 52377,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1507,
+          "y": 2984,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 2,
+      "itemSpawnUid": "9040e05a-fd3f-4ec3-a8dd-46f4b26b1bf0",
+      "regionId": 5934,
+      "chunk": {
+        "x": 188,
+        "y": 373
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 5
+      }
+    }
+  ],
+  "deletedUids": []
+}

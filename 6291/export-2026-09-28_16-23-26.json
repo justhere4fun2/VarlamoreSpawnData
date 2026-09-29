@@ -1,0 +1,2287 @@
+{
+  "version": 6,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 6291,
+  "exportedAt": "2026-09-28T20:23:26.325Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 12771,
+      "visibleId": 12771,
+      "name": "Moonlight moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1556,
+        "y": 9434,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 1792,
+      "facing": "SOUTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 600,
+          "timestamp": 1790371296512,
+          "to": 512
+        },
+        {
+          "tick": 623,
+          "timestamp": 1790371310284,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 649,
+          "timestamp": 1790371325893,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 658,
+          "timestamp": 1790371331284,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 684,
+          "timestamp": 1790371346912,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 701,
+          "timestamp": 1790371357091,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 717,
+          "timestamp": 1790371366706,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 769,
+          "timestamp": 1790371397892,
+          "from": 512,
+          "to": 1792
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 178,
+      "samples": 178,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 7,
+      "estimateRevisions": 8,
+      "spawnUid": "aed8593e-da1d-47a5-9f77-fc00b67eeff7",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4637,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1179
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13132,
+      "visibleId": 13132,
+      "name": "Moonlight antelope",
+      "size": 2,
+      "combatLevel": 47,
+      "spawn": {
+        "x": 1560,
+        "y": 9421,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 598,
+          "timestamp": 1790371295283,
+          "to": 1024
+        },
+        {
+          "tick": 628,
+          "timestamp": 1790371313282,
+          "from": 1024,
+          "to": 768
+        },
+        {
+          "tick": 634,
+          "timestamp": 1790371316918,
+          "from": 768,
+          "to": 1280
+        },
+        {
+          "tick": 647,
+          "timestamp": 1790371324698,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 652,
+          "timestamp": 1790371327688,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 662,
+          "timestamp": 1790371333704,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 668,
+          "timestamp": 1790371337288,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 711,
+          "timestamp": 1790371363114,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 728,
+          "timestamp": 1790371373294,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 761,
+          "timestamp": 1790371393088,
+          "from": 1024,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 141,
+      "samples": 141,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 0,
+      "estimateRevisions": 8,
+      "spawnUid": "daf7ccde-fc97-4e06-9fe6-2580ac419a3a",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4640,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 195,
+        "y": 1177
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12771,
+      "visibleId": 12771,
+      "name": "Moonlight moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1557,
+        "y": 9427,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 598,
+          "timestamp": 1790371295283,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 178,
+      "samples": 178,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 177,
+      "estimateRevisions": 0,
+      "spawnUid": "d735fb08-ea58-458d-9928-ac15ab28eb5d",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4641,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1178
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13132,
+      "visibleId": 13132,
+      "name": "Moonlight antelope",
+      "size": 2,
+      "combatLevel": 47,
+      "spawn": {
+        "x": 1558,
+        "y": 9419,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 598,
+          "timestamp": 1790371295283,
+          "to": 512
+        },
+        {
+          "tick": 605,
+          "timestamp": 1790371299484,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 622,
+          "timestamp": 1790371309713,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 643,
+          "timestamp": 1790371322305,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 659,
+          "timestamp": 1790371331909,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 711,
+          "timestamp": 1790371363114,
+          "from": 256,
+          "to": 1792
+        },
+        {
+          "tick": 751,
+          "timestamp": 1790371387093,
+          "from": 1792,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 131,
+      "samples": 131,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 89,
+      "estimateRevisions": 0,
+      "spawnUid": "417bd147-3abc-43b8-8f40-e9b69e933f43",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4642,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1177
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13132,
+      "visibleId": 13132,
+      "name": "Moonlight antelope",
+      "size": 2,
+      "combatLevel": 47,
+      "spawn": {
+        "x": 1559,
+        "y": 9421,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 598,
+          "timestamp": 1790371295283,
+          "to": 1024
+        },
+        {
+          "tick": 611,
+          "timestamp": 1790371303111,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 627,
+          "timestamp": 1790371312684,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 635,
+          "timestamp": 1790371317497,
+          "from": 1792,
+          "to": 1024
+        },
+        {
+          "tick": 651,
+          "timestamp": 1790371327092,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 703,
+          "timestamp": 1790371358288,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 740,
+          "timestamp": 1790371380502,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 750,
+          "timestamp": 1790371386492,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 169,
+      "samples": 169,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 46,
+      "estimateRevisions": 3,
+      "spawnUid": "23311a7d-51fa-43d3-bd10-acddf57b9486",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4647,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1177
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13132,
+      "visibleId": 13132,
+      "name": "Moonlight antelope",
+      "size": 2,
+      "combatLevel": 47,
+      "spawn": {
+        "x": 1557,
+        "y": 9417,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 1280,
+      "facing": "NORTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 609,
+          "timestamp": 1790371301911,
+          "to": 512
+        },
+        {
+          "tick": 621,
+          "timestamp": 1790371309085,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 643,
+          "timestamp": 1790371322305,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 656,
+          "timestamp": 1790371330088,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 665,
+          "timestamp": 1790371335553,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 672,
+          "timestamp": 1790371339691,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 718,
+          "timestamp": 1790371367292,
+          "from": 0,
+          "to": 1280
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 136,
+      "samples": 136,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 41,
+      "estimateRevisions": 4,
+      "spawnUid": "5bd76588-1ae0-4647-a8ef-9637b7e79608",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4649,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1177
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12771,
+      "visibleId": 12771,
+      "name": "Moonlight moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1564,
+        "y": 9438,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 10,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 601,
+          "timestamp": 1790371297115,
+          "to": 1024
+        },
+        {
+          "tick": 609,
+          "timestamp": 1790371301911,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 639,
+          "timestamp": 1790371319887,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 656,
+          "timestamp": 1790371330088,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 667,
+          "timestamp": 1790371336703,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 673,
+          "timestamp": 1790371340288,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 700,
+          "timestamp": 1790371356499,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 710,
+          "timestamp": 1790371362517,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 728,
+          "timestamp": 1790371373294,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 766,
+          "timestamp": 1790371396110,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 784,
+          "timestamp": 1790371406914,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 802,
+          "timestamp": 1790371417719,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 816,
+          "timestamp": 1790371426108,
+          "from": 768,
+          "to": 1280
+        },
+        {
+          "tick": 821,
+          "timestamp": 1790371429107,
+          "from": 1280,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 239,
+      "samples": 239,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 8,
+      "estimateRevisions": 1,
+      "spawnUid": "4cef143f-e484-4c2d-bcdc-53d991052071",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4650,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4650,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 195,
+        "y": 1179
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12771,
+      "visibleId": 12771,
+      "name": "Moonlight moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1565,
+        "y": 9432,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 598,
+          "timestamp": 1790371295283,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 177,
+      "samples": 177,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 176,
+      "estimateRevisions": 0,
+      "spawnUid": "22c91aaa-355b-4413-903a-77b5d62a7200",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4651,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 195,
+        "y": 1179
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12771,
+      "visibleId": 12771,
+      "name": "Moonlight moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1569,
+        "y": 9440,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 598,
+          "timestamp": 1790371295283,
+          "to": 512
+        },
+        {
+          "tick": 636,
+          "timestamp": 1790371318094,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 661,
+          "timestamp": 1790371333086,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 668,
+          "timestamp": 1790371337288,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 680,
+          "timestamp": 1790371344497,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 703,
+          "timestamp": 1790371358288,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 712,
+          "timestamp": 1790371363704,
+          "from": 1792,
+          "to": 768
+        },
+        {
+          "tick": 734,
+          "timestamp": 1790371376890,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 771,
+          "timestamp": 1790371399101,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 177,
+      "samples": 177,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 114,
+      "estimateRevisions": 6,
+      "spawnUid": "064be1bd-b85c-429a-920f-57bb893f5f8c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4652,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 196,
+        "y": 1180
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12771,
+      "visibleId": 12771,
+      "name": "Moonlight moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1575,
+        "y": 9443,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 10,
+      "static": false,
+      "orientation": 1792,
+      "facing": "SOUTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 613,
+          "timestamp": 1790371304316,
+          "to": 1536
+        },
+        {
+          "tick": 629,
+          "timestamp": 1790371313884,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 637,
+          "timestamp": 1790371318682,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 650,
+          "timestamp": 1790371326500,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 660,
+          "timestamp": 1790371332490,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 724,
+          "timestamp": 1790371370896,
+          "from": 1280,
+          "to": 1792
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 150,
+      "samples": 150,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 67,
+      "estimateRevisions": 8,
+      "spawnUid": "b1c05f71-b2dd-4095-934b-ec5a27dee0f5",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4657,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 196,
+        "y": 1180
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12771,
+      "visibleId": 12771,
+      "name": "Moonlight moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1570,
+        "y": 9441,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 614,
+          "timestamp": 1790371304930,
+          "to": 0
+        },
+        {
+          "tick": 674,
+          "timestamp": 1790371340891,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 768,
+          "timestamp": 1790371397296,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 96,
+      "samples": 96,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 31,
+      "estimateRevisions": 1,
+      "spawnUid": "6d114d72-5946-48ff-aa21-ae222f032f43",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4654,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 196,
+        "y": 1180
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12771,
+      "visibleId": 12771,
+      "name": "Moonlight moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1572,
+        "y": 9444,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 626,
+          "timestamp": 1790371312083,
+          "to": 512
+        },
+        {
+          "tick": 634,
+          "timestamp": 1790371316918,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 640,
+          "timestamp": 1790371320505,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 672,
+          "timestamp": 1790371339691,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 698,
+          "timestamp": 1790371355289,
+          "from": 0,
+          "to": 1792
+        },
+        {
+          "tick": 720,
+          "timestamp": 1790371368496,
+          "from": 1792,
+          "to": 768
+        },
+        {
+          "tick": 740,
+          "timestamp": 1790371380502,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 749,
+          "timestamp": 1790371385894,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 803,
+          "timestamp": 1790371418295,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 838,
+          "timestamp": 1790371439305,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 847,
+          "timestamp": 1790371450706,
+          "from": 1536,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 199,
+      "samples": 199,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 186,
+      "estimateRevisions": 0,
+      "spawnUid": "dfdba327-a8ad-446d-ac19-87a83f5840f8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4656,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4656,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 196,
+        "y": 1180
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13124,
+      "visibleId": 13124,
+      "name": "Guild Hunter Aco (Expert)",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1559,
+        "y": 9453,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 774,
+          "timestamp": 1790371400898,
+          "to": 1536
+        },
+        {
+          "tick": 809,
+          "timestamp": 1790371421899,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 820,
+          "timestamp": 1790371428520,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 825,
+          "timestamp": 1790371431503,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 849,
+          "timestamp": 1790371451919,
+          "from": 1024,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 118,
+      "samples": 114,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 82,
+      "estimateRevisions": 0,
+      "spawnUid": "e7506817-ed7b-4754-a257-46b51bc6c732",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4645,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4645,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4645,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1181
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13125,
+      "visibleId": 13125,
+      "name": "Guild Hunter Teco (Expert)",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1561,
+        "y": 9454,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 774,
+          "timestamp": 1790371400898,
+          "to": 512
+        },
+        {
+          "tick": 826,
+          "timestamp": 1790371432101,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 833,
+          "timestamp": 1790371436311,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 842,
+          "timestamp": 1790371441704,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 847,
+          "timestamp": 1790371450706,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 858,
+          "timestamp": 1790371462672,
+          "from": 0,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 113,
+      "samples": 113,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 30,
+      "estimateRevisions": 0,
+      "spawnUid": "a295089b-0573-4b61-ba1a-12b3be08204b",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4648,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4648,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4648,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 195,
+        "y": 1181
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12934,
+      "visibleId": 12934,
+      "name": "Guild Hunter Kiko",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1552,
+        "y": 9460,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 777,
+          "timestamp": 1790371402691,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 112,
+      "samples": 112,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 111,
+      "estimateRevisions": 0,
+      "spawnUid": "6fd84802-6e4a-4fec-a149-806fd9f7de12",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4636,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4636,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4636,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1182
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13122,
+      "visibleId": 13122,
+      "name": "Guild Hunter Ornus (Adept)",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1560,
+        "y": 9461,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 783,
+          "timestamp": 1790371406314,
+          "to": 0
+        },
+        {
+          "tick": 805,
+          "timestamp": 1790371419505,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 815,
+          "timestamp": 1790371425499,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 824,
+          "timestamp": 1790371430902,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 834,
+          "timestamp": 1790371436984,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 849,
+          "timestamp": 1790371451919,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 860,
+          "timestamp": 1790371463875,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 865,
+          "timestamp": 1790371466870,
+          "from": 256,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 108,
+      "samples": 108,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 55,
+      "estimateRevisions": 1,
+      "spawnUid": "46320902-2532-45fe-9c8e-bc633dac1b7e",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4646,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4646,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4646,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 195,
+        "y": 1182
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13126,
+      "visibleId": 13126,
+      "name": "Guild Hunter Wolf (Master)",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1554,
+        "y": 9462,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 1,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 778,
+          "timestamp": 1790371403307,
+          "to": 512
+        },
+        {
+          "tick": 798,
+          "timestamp": 1790371415306,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 841,
+          "timestamp": 1790371441095,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 852,
+          "timestamp": 1790371453722,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 858,
+          "timestamp": 1790371462672,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 862,
+          "timestamp": 1790371465075,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 111,
+      "samples": 111,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 91,
+      "estimateRevisions": 0,
+      "spawnUid": "22559c8c-7003-457f-b045-84e76ace18b7",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4638,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4638,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4638,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1182
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13123,
+      "visibleId": 13123,
+      "name": "Guild Hunter Cervus (Adept)",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1559,
+        "y": 9461,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 1280,
+      "facing": "NORTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 778,
+          "timestamp": 1790371403307,
+          "to": 1536
+        },
+        {
+          "tick": 811,
+          "timestamp": 1790371423098,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 830,
+          "timestamp": 1790371434497,
+          "from": 1792,
+          "to": 768
+        },
+        {
+          "tick": 841,
+          "timestamp": 1790371441095,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 851,
+          "timestamp": 1790371453092,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 858,
+          "timestamp": 1790371462672,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 866,
+          "timestamp": 1790371467450,
+          "from": 1536,
+          "to": 1280
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 111,
+      "samples": 111,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 40,
+      "estimateRevisions": 3,
+      "spawnUid": "f0115101-9f03-41f4-ad28-429c07dcd510",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4643,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4643,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4643,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1182
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13121,
+      "visibleId": 13121,
+      "name": "Huntmaster Gilman (Novice)",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1556,
+        "y": 9464,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 779,
+          "timestamp": 1790371403917,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 110,
+      "samples": 110,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 109,
+      "estimateRevisions": 0,
+      "spawnUid": "14e6eb0b-6cc6-4db8-a485-3a94a8a6b760",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4639,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4639,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4639,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1183
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13127,
+      "visibleId": 13127,
+      "name": "Guild Scribe Verity",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1559,
+        "y": 9464,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 779,
+          "timestamp": 1790371403917,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 110,
+      "samples": 110,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 109,
+      "estimateRevisions": 0,
+      "spawnUid": "c1d47bd0-ddf2-4566-817f-5dd539203206",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4644,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4644,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4644,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1183
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13137,
+      "visibleId": 13137,
+      "name": "Orsaga\u0027s chinchompa",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1569,
+        "y": 9458,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 788,
+          "timestamp": 1790371409297,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 101,
+      "samples": 101,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 100,
+      "estimateRevisions": 0,
+      "spawnUid": "c0c3beb0-b388-4a4e-877f-cfa008d5ec76",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4653,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4653,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4653,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 196,
+        "y": 1182
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13136,
+      "visibleId": 13136,
+      "name": "Orsaga",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1570,
+        "y": 9459,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 788,
+          "timestamp": 1790371409297,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 101,
+      "samples": 101,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 100,
+      "estimateRevisions": 0,
+      "spawnUid": "1cab9072-c2b9-481f-a2f2-260c4f117402",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 361,
+          "index": 4655,
+          "revision": 240
+        },
+        {
+          "world": 518,
+          "index": 4655,
+          "revision": 240
+        },
+        {
+          "world": 402,
+          "index": 4655,
+          "revision": 240
+        }
+      ],
+      "regionId": 6291,
+      "chunk": {
+        "x": 196,
+        "y": 1182
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [
+    {
+      "itemId": 29277,
+      "name": "Trapper\u0027s tipple",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1554,
+        "y": 9454,
+        "plane": 0
+      },
+      "height": 102,
+      "surface": {
+        "kind": "game",
+        "id": 51722,
+        "type": 10,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1553,
+        "y": 9453,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 2
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 51722,
+          "type": 10,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1553,
+          "y": 9453,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 2
+        },
+        {
+          "kind": "ground",
+          "id": 42273,
+          "type": 22,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1554,
+          "y": 9454,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 3,
+      "itemSpawnUid": "07f609ee-9962-4b58-abdb-b0548b4cb782",
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1181
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 29277,
+      "name": "Trapper\u0027s tipple",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1561,
+        "y": 9452,
+        "plane": 0
+      },
+      "height": 102,
+      "surface": {
+        "kind": "game",
+        "id": 51723,
+        "type": 10,
+        "orientation": 3,
+        "supportsItems": true,
+        "x": 1561,
+        "y": 9452,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 2
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 51723,
+          "type": 10,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1561,
+          "y": 9452,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 2
+        },
+        {
+          "kind": "ground",
+          "id": 42268,
+          "type": 22,
+          "orientation": 0,
+          "supportsItems": true,
+          "x": 1561,
+          "y": 9452,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 3,
+      "itemSpawnUid": "6268bb5d-cbbe-4668-a84e-7c0e68aa9b93",
+      "regionId": 6291,
+      "chunk": {
+        "x": 195,
+        "y": 1181
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 1511,
+      "name": "Logs",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1566,
+        "y": 9418,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 1,
+      "itemSpawnUid": "9c5ae65c-1175-43b0-b97c-1b4d044fa56d",
+      "regionId": 6291,
+      "chunk": {
+        "x": 195,
+        "y": 1177
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 1
+      }
+    },
+    {
+      "itemId": 31079,
+      "name": "Auburn valley ecological reports",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1571,
+        "y": 9456,
+        "plane": 0
+      },
+      "height": 102,
+      "surface": {
+        "kind": "game",
+        "id": 51722,
+        "type": 10,
+        "orientation": 0,
+        "supportsItems": true,
+        "x": 1570,
+        "y": 9456,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 2
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 51722,
+          "type": 10,
+          "orientation": 0,
+          "supportsItems": true,
+          "x": 1570,
+          "y": 9456,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 2
+        },
+        {
+          "kind": "ground",
+          "id": 14495,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1571,
+          "y": 9456,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "7971dcaa-64f0-4c32-bd66-ccee2fcd9cd4",
+      "regionId": 6291,
+      "chunk": {
+        "x": 196,
+        "y": 1182
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 29277,
+      "name": "Trapper\u0027s tipple",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1560,
+        "y": 9459,
+        "plane": 0
+      },
+      "height": 102,
+      "surface": {
+        "kind": "game",
+        "id": 51722,
+        "type": 10,
+        "orientation": 0,
+        "supportsItems": true,
+        "x": 1560,
+        "y": 9459,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 2
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 51722,
+          "type": 10,
+          "orientation": 0,
+          "supportsItems": true,
+          "x": 1560,
+          "y": 9459,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 2
+        },
+        {
+          "kind": "ground",
+          "id": 42268,
+          "type": 22,
+          "orientation": 0,
+          "supportsItems": true,
+          "x": 1560,
+          "y": 9459,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "bc2cbebf-2759-4e67-8d92-0b5a5e70e556",
+      "regionId": 6291,
+      "chunk": {
+        "x": 195,
+        "y": 1182
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 1919,
+      "name": "Beer glass",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1555,
+        "y": 9461,
+        "plane": 0
+      },
+      "height": 102,
+      "surface": {
+        "kind": "game",
+        "id": 51723,
+        "type": 10,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1554,
+        "y": 9460,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 2
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 51723,
+          "type": 10,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1554,
+          "y": 9460,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 2
+        },
+        {
+          "kind": "ground",
+          "id": 42268,
+          "type": 22,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1555,
+          "y": 9461,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "9b3ea810-118f-48ed-8c9a-1b264fd03f82",
+      "regionId": 6291,
+      "chunk": {
+        "x": 194,
+        "y": 1182
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 6
+      }
+    }
+  ],
+  "deletedUids": [],
+  "pools": [],
+  "objects": []
+}

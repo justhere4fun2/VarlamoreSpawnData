@@ -1,0 +1,4393 @@
+{
+  "version": 6,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 6195,
+  "exportedAt": "2026-09-29T12:10:19.586Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 4117,
+      "visibleId": 4117,
+      "name": "Mountain goat",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1558,
+        "y": 3276,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 10,
+      "static": false,
+      "orientation": 1280,
+      "facing": "NORTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 23896,
+          "timestamp": 1790455968144,
+          "to": 1536
+        },
+        {
+          "tick": 23910,
+          "timestamp": 1790455976536,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 23934,
+          "timestamp": 1790455990950,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 23947,
+          "timestamp": 1790455998729,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 23966,
+          "timestamp": 1790456010147,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 23981,
+          "timestamp": 1790456019142,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 23999,
+          "timestamp": 1790456029943,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24036,
+          "timestamp": 1790456052169,
+          "from": 1536,
+          "to": 1280
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 143,
+      "samples": 143,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 24,
+      "estimateRevisions": 5,
+      "spawnUid": "e1f8c621-1e2d-41da-8069-e7b19cea5647",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4347,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 194,
+        "y": 409
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12974,
+      "visibleId": 12974,
+      "name": "Sunbeam skink",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1547,
+        "y": 3286,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 23893,
+          "timestamp": 1790455966312,
+          "to": 1536
+        },
+        {
+          "tick": 23938,
+          "timestamp": 1790455993309,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 23948,
+          "timestamp": 1790455999350,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 23958,
+          "timestamp": 1790456005350,
+          "from": 1792,
+          "to": 1024
+        },
+        {
+          "tick": 23966,
+          "timestamp": 1790456010147,
+          "from": 1024,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 106,
+      "samples": 106,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 42,
+      "estimateRevisions": 2,
+      "spawnUid": "003cd3db-c095-4582-86d6-ba8fd83f0942",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4345,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 193,
+        "y": 410
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 238,
+      "visibleId": 238,
+      "name": "Butterfly",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1548,
+        "y": 3293,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 11,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 23895,
+          "timestamp": 1790455967505,
+          "to": 1536
+        },
+        {
+          "tick": 23912,
+          "timestamp": 1790455977731,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 23944,
+          "timestamp": 1790455997052,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 23971,
+          "timestamp": 1790456013170,
+          "from": 256,
+          "to": 768
+        },
+        {
+          "tick": 23980,
+          "timestamp": 1790456018541,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 23989,
+          "timestamp": 1790456023949,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24022,
+          "timestamp": 1790456043746,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24043,
+          "timestamp": 1790456056327,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 24048,
+          "timestamp": 1790456059325,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 24062,
+          "timestamp": 1790456067734,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24069,
+          "timestamp": 1790456071945,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24094,
+          "timestamp": 1790456086968,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24115,
+          "timestamp": 1790456099525,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24140,
+          "timestamp": 1790456114570,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 250,
+      "samples": 250,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 71,
+      "estimateRevisions": 10,
+      "spawnUid": "1b8ac82f-0712-4469-b651-36a4d112fb1a",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4346,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 193,
+        "y": 411
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12851,
+      "visibleId": 12851,
+      "name": "Rabbit",
+      "size": 1,
+      "combatLevel": 2,
+      "spawn": {
+        "x": 1566,
+        "y": 3287,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 14,
+      "static": false,
+      "orientation": 1792,
+      "facing": "SOUTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 23904,
+          "timestamp": 1790455972942,
+          "to": 0
+        },
+        {
+          "tick": 23939,
+          "timestamp": 1790455993924,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 23952,
+          "timestamp": 1790456001723,
+          "from": 768,
+          "to": 1024
+        },
+        {
+          "tick": 23993,
+          "timestamp": 1790456026332,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 24005,
+          "timestamp": 1790456033530,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 24031,
+          "timestamp": 1790456049145,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24039,
+          "timestamp": 1790456053966,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24045,
+          "timestamp": 1790456057529,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24059,
+          "timestamp": 1790456065950,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24069,
+          "timestamp": 1790456071945,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24090,
+          "timestamp": 1790456084586,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24104,
+          "timestamp": 1790456092945,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24116,
+          "timestamp": 1790456100164,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24125,
+          "timestamp": 1790456105547,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24135,
+          "timestamp": 1790456111547,
+          "from": 1024,
+          "to": 1792
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 254,
+      "samples": 254,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 99,
+      "estimateRevisions": 12,
+      "spawnUid": "05a13d64-14c3-4bfd-9c7c-cbb0a62ee518",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4349,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 195,
+        "y": 410
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12852,
+      "visibleId": 12852,
+      "name": "Rabbit",
+      "size": 1,
+      "combatLevel": 2,
+      "spawn": {
+        "x": 1566,
+        "y": 3286,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 23913,
+          "timestamp": 1790455978331,
+          "to": 1536
+        },
+        {
+          "tick": 23938,
+          "timestamp": 1790455993309,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 23966,
+          "timestamp": 1790456010147,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24004,
+          "timestamp": 1790456032965,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24032,
+          "timestamp": 1790456049742,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24045,
+          "timestamp": 1790456057529,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 24052,
+          "timestamp": 1790456061773,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 24090,
+          "timestamp": 1790456084586,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24103,
+          "timestamp": 1790456092374,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24118,
+          "timestamp": 1790456101329,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24149,
+          "timestamp": 1790456119948,
+          "from": 512,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 235,
+      "samples": 235,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 92,
+      "estimateRevisions": 6,
+      "spawnUid": "b025bf0b-2062-49af-856a-477c47f82384",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4352,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 195,
+        "y": 410
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12975,
+      "visibleId": 12975,
+      "name": "Sunbeam skink",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1563,
+        "y": 3280,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 23915,
+          "timestamp": 1790455979534,
+          "to": 512
+        },
+        {
+          "tick": 23938,
+          "timestamp": 1790455993309,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 23947,
+          "timestamp": 1790455998729,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 23979,
+          "timestamp": 1790456017942,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24018,
+          "timestamp": 1790456041331,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24043,
+          "timestamp": 1790456056327,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24059,
+          "timestamp": 1790456065950,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24085,
+          "timestamp": 1790456081550,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24126,
+          "timestamp": 1790456106169,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24142,
+          "timestamp": 1790456115741,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 236,
+      "samples": 236,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 76,
+      "estimateRevisions": 5,
+      "spawnUid": "db8b007c-0ff4-436e-a75d-05ec1bb0d11a",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4351,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 195,
+        "y": 410
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12851,
+      "visibleId": 12851,
+      "name": "Rabbit",
+      "size": 1,
+      "combatLevel": 2,
+      "spawn": {
+        "x": 1570,
+        "y": 3284,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 23940,
+          "timestamp": 1790455994548,
+          "to": 512
+        },
+        {
+          "tick": 23999,
+          "timestamp": 1790456029943,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24044,
+          "timestamp": 1790456056925,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24052,
+          "timestamp": 1790456061773,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24085,
+          "timestamp": 1790456081550,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24134,
+          "timestamp": 1790456110926,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24161,
+          "timestamp": 1790456127130,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25123,
+          "timestamp": 1790456704405,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 26134,
+          "timestamp": 1790457311087,
+          "from": 1280,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 243,
+      "samples": 243,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 70,
+      "estimateRevisions": 5,
+      "spawnUid": "fdc45fc5-009e-4661-85a8-d47ebff31c23",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4359,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 410
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 238,
+      "visibleId": 238,
+      "name": "Butterfly",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1574,
+        "y": 3282,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 23944,
+          "timestamp": 1790455997052,
+          "to": 0
+        },
+        {
+          "tick": 23950,
+          "timestamp": 1790456000520,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24144,
+          "timestamp": 1790456116969,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 24177,
+          "timestamp": 1790456136787,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 25124,
+          "timestamp": 1790456705031,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25143,
+          "timestamp": 1790456716428,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25162,
+          "timestamp": 1790456727851,
+          "from": 512,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 135,
+      "samples": 135,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 18,
+      "estimateRevisions": 3,
+      "spawnUid": "0e8f6e78-f962-4e11-8756-8bf87e6cc376",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4357,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 410
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 1553,
+      "visibleId": 1553,
+      "name": "Crab",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1574,
+        "y": 3300,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 23946,
+          "timestamp": 1790455998145,
+          "to": 1792
+        },
+        {
+          "tick": 26072,
+          "timestamp": 1790457273881,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 26094,
+          "timestamp": 1790457287093,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 26103,
+          "timestamp": 1790457292503,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 26113,
+          "timestamp": 1790457298487,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 26169,
+          "timestamp": 1790457332142,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 26207,
+          "timestamp": 1790457354903,
+          "from": 1280,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 127,
+      "samples": 127,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 51,
+      "estimateRevisions": 1,
+      "spawnUid": "24caaaef-3b10-4268-a41d-ce58da7eb080",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4361,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 412
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 14024,
+      "visibleId": 14024,
+      "name": "Yolotli, Teoki of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1580,
+        "y": 3276,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 1280,
+      "facing": "NORTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 24144,
+          "timestamp": 1790456116969,
+          "to": 1024
+        },
+        {
+          "tick": 24150,
+          "timestamp": 1790456120525,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24171,
+          "timestamp": 1790456133149,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 24189,
+          "timestamp": 1790456143946,
+          "from": 768,
+          "to": 1280
+        },
+        {
+          "tick": 24217,
+          "timestamp": 1790456160748,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 24229,
+          "timestamp": 1790456167986,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 24244,
+          "timestamp": 1790456176961,
+          "from": 1280,
+          "to": 256
+        },
+        {
+          "tick": 24263,
+          "timestamp": 1790456188390,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 24279,
+          "timestamp": 1790456197949,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24286,
+          "timestamp": 1790456202228,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24300,
+          "timestamp": 1790456210543,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24316,
+          "timestamp": 1790456220144,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24338,
+          "timestamp": 1790456233395,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24349,
+          "timestamp": 1790456239986,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24364,
+          "timestamp": 1790456248986,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 24382,
+          "timestamp": 1790456259787,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 24388,
+          "timestamp": 1790456263383,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 24426,
+          "timestamp": 1790456286184,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 24441,
+          "timestamp": 1790456295185,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24474,
+          "timestamp": 1790456314947,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24503,
+          "timestamp": 1790456332380,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24519,
+          "timestamp": 1790456341980,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24530,
+          "timestamp": 1790456348572,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24537,
+          "timestamp": 1790456352773,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24562,
+          "timestamp": 1790456367793,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24570,
+          "timestamp": 1790456372585,
+          "from": 1024,
+          "to": 768
+        },
+        {
+          "tick": 24613,
+          "timestamp": 1790456398350,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 24620,
+          "timestamp": 1790456402573,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24636,
+          "timestamp": 1790456412169,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 24660,
+          "timestamp": 1790456426583,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 24676,
+          "timestamp": 1790456436162,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24689,
+          "timestamp": 1790456444007,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 24713,
+          "timestamp": 1790456458407,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 24730,
+          "timestamp": 1790456468608,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24735,
+          "timestamp": 1790456471584,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24752,
+          "timestamp": 1790456481812,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24796,
+          "timestamp": 1790456508185,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24804,
+          "timestamp": 1790456512994,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24839,
+          "timestamp": 1790456533993,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24856,
+          "timestamp": 1790456544204,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 24864,
+          "timestamp": 1790456548984,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 24875,
+          "timestamp": 1790456555606,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24889,
+          "timestamp": 1790456564024,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 24905,
+          "timestamp": 1790456573631,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 24925,
+          "timestamp": 1790456585586,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 24935,
+          "timestamp": 1790456591603,
+          "from": 256,
+          "to": 0
+        },
+        {
+          "tick": 24962,
+          "timestamp": 1790456607791,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24971,
+          "timestamp": 1790456613232,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24975,
+          "timestamp": 1790456615609,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24984,
+          "timestamp": 1790456620992,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24992,
+          "timestamp": 1790456625804,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25002,
+          "timestamp": 1790456631823,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 25008,
+          "timestamp": 1790456635426,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 25017,
+          "timestamp": 1790456640790,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 25024,
+          "timestamp": 1790456645007,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 25032,
+          "timestamp": 1790456649852,
+          "from": 1792,
+          "to": 1024
+        },
+        {
+          "tick": 25047,
+          "timestamp": 1790456658847,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25058,
+          "timestamp": 1790456665385,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 25078,
+          "timestamp": 1790456677404,
+          "from": 256,
+          "to": 1280
+        },
+        {
+          "tick": 25096,
+          "timestamp": 1790456688189,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 25107,
+          "timestamp": 1790456694849,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 25112,
+          "timestamp": 1790456697846,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25119,
+          "timestamp": 1790456702027,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 25125,
+          "timestamp": 1790456705623,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 25131,
+          "timestamp": 1790456709227,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 25161,
+          "timestamp": 1790456727248,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 25170,
+          "timestamp": 1790456732630,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25183,
+          "timestamp": 1790456740446,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 26068,
+          "timestamp": 1790457271465,
+          "from": 256,
+          "to": 1280
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1081,
+      "samples": 1081,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 784,
+      "estimateRevisions": 1,
+      "spawnUid": "0ec2cf69-1eb1-4f8e-ab37-6b66e605bffd",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4364,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 409
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 1553,
+      "visibleId": 1553,
+      "name": "Crab",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1582,
+        "y": 3296,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 24159,
+          "timestamp": 1790456125944,
+          "to": 256
+        },
+        {
+          "tick": 26062,
+          "timestamp": 1790457267870,
+          "from": 256,
+          "to": 1792
+        },
+        {
+          "tick": 26077,
+          "timestamp": 1790457276866,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 26098,
+          "timestamp": 1790457289508,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 26111,
+          "timestamp": 1790457297324,
+          "from": 512,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 141,
+      "samples": 141,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 30,
+      "estimateRevisions": 4,
+      "spawnUid": "f54d2f3b-886f-49fd-b517-98d5a4aa8422",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4365,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 412
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 14023,
+      "visibleId": 14023,
+      "name": "Ezco, Teoki of Ranul",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1583,
+        "y": 3274,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 24147,
+          "timestamp": 1790456118741,
+          "to": 1024
+        },
+        {
+          "tick": 24159,
+          "timestamp": 1790456125944,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 24164,
+          "timestamp": 1790456128953,
+          "from": 1792,
+          "to": 256
+        },
+        {
+          "tick": 24174,
+          "timestamp": 1790456134967,
+          "from": 256,
+          "to": 0
+        },
+        {
+          "tick": 24217,
+          "timestamp": 1790456160748,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24222,
+          "timestamp": 1790456163743,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24252,
+          "timestamp": 1790456181788,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24263,
+          "timestamp": 1790456188390,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24274,
+          "timestamp": 1790456194965,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24310,
+          "timestamp": 1790456216548,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24346,
+          "timestamp": 1790456238169,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24370,
+          "timestamp": 1790456252549,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24391,
+          "timestamp": 1790456265148,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24409,
+          "timestamp": 1790456275944,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24420,
+          "timestamp": 1790456282561,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24428,
+          "timestamp": 1790456287363,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24449,
+          "timestamp": 1790456299952,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24530,
+          "timestamp": 1790456348572,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 24549,
+          "timestamp": 1790456359985,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 24576,
+          "timestamp": 1790456376165,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24586,
+          "timestamp": 1790456382203,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24603,
+          "timestamp": 1790456392401,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24624,
+          "timestamp": 1790456404982,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24634,
+          "timestamp": 1790456410989,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24657,
+          "timestamp": 1790456424787,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24667,
+          "timestamp": 1790456430812,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24708,
+          "timestamp": 1790456455408,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24715,
+          "timestamp": 1790456459566,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24740,
+          "timestamp": 1790456474590,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 24753,
+          "timestamp": 1790456482393,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 24767,
+          "timestamp": 1790456490785,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24778,
+          "timestamp": 1790456497420,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 24789,
+          "timestamp": 1790456503995,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 24803,
+          "timestamp": 1790456512373,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24861,
+          "timestamp": 1790456547214,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24883,
+          "timestamp": 1790456560407,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24915,
+          "timestamp": 1790456579603,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24927,
+          "timestamp": 1790456586786,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24933,
+          "timestamp": 1790456590412,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24952,
+          "timestamp": 1790456601789,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24962,
+          "timestamp": 1790456607791,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24969,
+          "timestamp": 1790456611993,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24992,
+          "timestamp": 1790456625804,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25031,
+          "timestamp": 1790456649231,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25049,
+          "timestamp": 1790456660027,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25055,
+          "timestamp": 1790456663605,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25065,
+          "timestamp": 1790456669610,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 25077,
+          "timestamp": 1790456676807,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 25096,
+          "timestamp": 1790456688189,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 25106,
+          "timestamp": 1790456694189,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 25141,
+          "timestamp": 1790456715223,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25156,
+          "timestamp": 1790456724228,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25173,
+          "timestamp": 1790456734424,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 25195,
+          "timestamp": 1790456747624,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 25213,
+          "timestamp": 1790456758422,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 26068,
+          "timestamp": 1790457271465,
+          "from": 512,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1080,
+      "samples": 1080,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 1010,
+      "estimateRevisions": 0,
+      "spawnUid": "ec2aff88-d4ad-4c1c-af05-fe2cc176e4bc",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4367,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 409
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 1553,
+      "visibleId": 1553,
+      "name": "Crab",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1590,
+        "y": 3293,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 24151,
+          "timestamp": 1790456121157,
+          "to": 0
+        },
+        {
+          "tick": 24157,
+          "timestamp": 1790456124751,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 25131,
+          "timestamp": 1790456709227,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 26062,
+          "timestamp": 1790457267870,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 26076,
+          "timestamp": 1790457276325,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 26104,
+          "timestamp": 1790457293099,
+          "from": 1536,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 94,
+      "samples": 94,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 34,
+      "estimateRevisions": 3,
+      "spawnUid": "4303dbe2-c6fd-46cb-9bdd-47a43f694615",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4370,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 198,
+        "y": 411
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13425,
+      "visibleId": 13425,
+      "name": "Buffalo",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1590,
+        "y": 3276,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 24152,
+          "timestamp": 1790456121754,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1087,
+      "samples": 1087,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 1086,
+      "estimateRevisions": 0,
+      "spawnUid": "035d122f-016f-42fd-a60c-d90be1de6972",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4369,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 198,
+        "y": 409
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 1553,
+      "visibleId": 1553,
+      "name": "Crab",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1577,
+        "y": 3305,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 26072,
+          "timestamp": 1790457273881,
+          "to": 256
+        },
+        {
+          "tick": 26083,
+          "timestamp": 1790457280510,
+          "from": 256,
+          "to": 0
+        },
+        {
+          "tick": 26121,
+          "timestamp": 1790457303327,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 26145,
+          "timestamp": 1790457317720,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 26172,
+          "timestamp": 1790457333906,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 26179,
+          "timestamp": 1790457338109,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 26185,
+          "timestamp": 1790457341693,
+          "from": 512,
+          "to": 768
+        },
+        {
+          "tick": 26206,
+          "timestamp": 1790457354308,
+          "from": 768,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 134,
+      "samples": 134,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 50,
+      "estimateRevisions": 5,
+      "spawnUid": "57dbe213-bcbd-4867-ae60-f6c136122bc2",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4363,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 1553,
+      "visibleId": 1553,
+      "name": "Crab",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1568,
+        "y": 3308,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 12,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 26133,
+          "timestamp": 1790457310504,
+          "to": 512
+        },
+        {
+          "tick": 26161,
+          "timestamp": 1790457327322,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 26177,
+          "timestamp": 1790457336907,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 26190,
+          "timestamp": 1790457344709,
+          "from": 1536,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 84,
+      "samples": 84,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 28,
+      "estimateRevisions": 11,
+      "spawnUid": "4969c5ad-ac9e-4fdf-b309-75aaa45250e8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4362,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 1553,
+      "visibleId": 1553,
+      "name": "Crab",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1569,
+        "y": 3308,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 26133,
+          "timestamp": 1790457310504,
+          "to": 1024
+        },
+        {
+          "tick": 26154,
+          "timestamp": 1790457323113,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 26168,
+          "timestamp": 1790457331499,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 26208,
+          "timestamp": 1790457355483,
+          "from": 768,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 81,
+      "samples": 81,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 48,
+      "estimateRevisions": 0,
+      "spawnUid": "26399ca9-1319-48c6-ba83-82228aecaf38",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4355,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 1553,
+      "visibleId": 1553,
+      "name": "Crab",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1557,
+        "y": 3309,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 8,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 26134,
+          "timestamp": 1790457311087,
+          "to": 1536
+        },
+        {
+          "tick": 26144,
+          "timestamp": 1790457317121,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 26171,
+          "timestamp": 1790457333294,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 26186,
+          "timestamp": 1790457342285,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 26212,
+          "timestamp": 1790457357934,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 82,
+      "samples": 82,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 29,
+      "estimateRevisions": 0,
+      "spawnUid": "a5e6efb8-4612-49cd-80bf-f0e333ef82b6",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4350,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 194,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 1553,
+      "visibleId": 1553,
+      "name": "Crab",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1570,
+        "y": 3321,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 26146,
+          "timestamp": 1790457318309,
+          "to": 512
+        },
+        {
+          "tick": 26172,
+          "timestamp": 1790457333906,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 26204,
+          "timestamp": 1790457353093,
+          "from": 1792,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 81,
+      "samples": 81,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 17,
+      "estimateRevisions": 3,
+      "spawnUid": "668b585d-0fe6-4fd5-8322-f5f1bb8efc1c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4358,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 1553,
+      "visibleId": 1553,
+      "name": "Crab",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1564,
+        "y": 3320,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 26143,
+          "timestamp": 1790457316483,
+          "to": 1536
+        },
+        {
+          "tick": 26170,
+          "timestamp": 1790457332718,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 26180,
+          "timestamp": 1790457338704,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 26187,
+          "timestamp": 1790457342884,
+          "from": 0,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 69,
+      "samples": 69,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 8,
+      "estimateRevisions": 3,
+      "spawnUid": "d9012547-3e5c-4233-9709-7f8389a6c04e",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4353,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 195,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 1553,
+      "visibleId": 1553,
+      "name": "Crab",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1557,
+        "y": 3318,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1280,
+      "facing": "NORTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 26141,
+          "timestamp": 1790457315305,
+          "to": 1280
+        },
+        {
+          "tick": 26148,
+          "timestamp": 1790457319483,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 26198,
+          "timestamp": 1790457349477,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 26213,
+          "timestamp": 1790457358503,
+          "from": 1536,
+          "to": 1280
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 85,
+      "samples": 85,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 42,
+      "estimateRevisions": 0,
+      "spawnUid": "284a6872-4b9c-4275-a501-a2297f1b8ab0",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4348,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 194,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 11068,
+      "visibleId": 11068,
+      "name": "Lynx",
+      "size": 2,
+      "combatLevel": 21,
+      "spawn": {
+        "x": 1541,
+        "y": 3325,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 26217,
+          "timestamp": 1790457360895,
+          "to": 0
+        },
+        {
+          "tick": 26223,
+          "timestamp": 1790457364507,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 26246,
+          "timestamp": 1790457378332,
+          "from": 1280,
+          "to": 1792
+        },
+        {
+          "tick": 26255,
+          "timestamp": 1790457383689,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 26299,
+          "timestamp": 1790457410128,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 26319,
+          "timestamp": 1790457422104,
+          "from": 1792,
+          "to": 768
+        },
+        {
+          "tick": 26332,
+          "timestamp": 1790457429922,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 26374,
+          "timestamp": 1790457455093,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 26652,
+          "timestamp": 1790457621921,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 197,
+      "samples": 197,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 15,
+      "estimateRevisions": 0,
+      "spawnUid": "21686d0a-d0d3-4bac-b90b-fc1990818fe0",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4344,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 192,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 11069,
+      "visibleId": 11069,
+      "name": "Lynx",
+      "size": 2,
+      "combatLevel": 24,
+      "spawn": {
+        "x": 1537,
+        "y": 3323,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 26218,
+          "timestamp": 1790457361513,
+          "to": 512
+        },
+        {
+          "tick": 26230,
+          "timestamp": 1790457368705,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 26257,
+          "timestamp": 1790457384930,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 26268,
+          "timestamp": 1790457391491,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 26284,
+          "timestamp": 1790457401127,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 26290,
+          "timestamp": 1790457404713,
+          "from": 768,
+          "to": 256
+        },
+        {
+          "tick": 26303,
+          "timestamp": 1790457412496,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 26318,
+          "timestamp": 1790457421483,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 26341,
+          "timestamp": 1790457435315,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 26362,
+          "timestamp": 1790457447914,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 26650,
+          "timestamp": 1790457620733,
+          "from": 1536,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 196,
+      "samples": 196,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 6,
+      "estimateRevisions": 3,
+      "spawnUid": "e6906919-e43d-450c-9c76-3c77ee7bd9e6",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4343,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 192,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 11068,
+      "visibleId": 11068,
+      "name": "Lynx",
+      "size": 2,
+      "combatLevel": 21,
+      "spawn": {
+        "x": 1537,
+        "y": 3322,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 26223,
+          "timestamp": 1790457364507,
+          "to": 768
+        },
+        {
+          "tick": 26236,
+          "timestamp": 1790457372286,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 26259,
+          "timestamp": 1790457386092,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 26271,
+          "timestamp": 1790457393303,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 26276,
+          "timestamp": 1790457396302,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 26281,
+          "timestamp": 1790457399301,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 26307,
+          "timestamp": 1790457414925,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 26652,
+          "timestamp": 1790457621921,
+          "from": 1280,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 115,
+      "samples": 115,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 17,
+      "estimateRevisions": 4,
+      "spawnUid": "994c0eef-3da0-43ff-94d4-6a4c90623255",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4342,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 192,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 11069,
+      "visibleId": 11069,
+      "name": "Lynx",
+      "size": 2,
+      "combatLevel": 24,
+      "spawn": {
+        "x": 1537,
+        "y": 3325,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 768,
+      "facing": "NORTH_WEST",
+      "orientationChanges": [
+        {
+          "tick": 26219,
+          "timestamp": 1790457362088,
+          "to": 512
+        },
+        {
+          "tick": 26244,
+          "timestamp": 1790457377101,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 26257,
+          "timestamp": 1790457384930,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 26286,
+          "timestamp": 1790457402286,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 26292,
+          "timestamp": 1790457405886,
+          "from": 1792,
+          "to": 768
+        },
+        {
+          "tick": 26649,
+          "timestamp": 1790457620112,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 26665,
+          "timestamp": 1790457629726,
+          "from": 512,
+          "to": 768
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 123,
+      "samples": 123,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 6,
+      "estimateRevisions": 5,
+      "spawnUid": "283d89cd-fd48-42d5-9ac9-94450ee8a115",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 4371,
+          "revision": 240
+        }
+      ],
+      "regionId": 6195,
+      "chunk": {
+        "x": 192,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1564,
+        "y": 3311,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 798,
+        "type": 22,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1564,
+        "y": 3311,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 798,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1564,
+          "y": 3311,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 9,
+      "itemSpawnUid": "e9ada8a3-edec-4df6-a7f3-a6ff0700b4b5",
+      "regionId": 6195,
+      "chunk": {
+        "x": 195,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 960,
+      "name": "Plank",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1567,
+        "y": 3309,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 9,
+      "itemSpawnUid": "8aebb275-0119-4573-9983-c545e8c14fed",
+      "regionId": 6195,
+      "chunk": {
+        "x": 195,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 526,
+      "name": "Bones",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1556,
+        "y": 3311,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 31778,
+        "type": 22,
+        "orientation": 2,
+        "supportsItems": true,
+        "x": 1556,
+        "y": 3311,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 31778,
+          "type": 22,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1556,
+          "y": 3311,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 8,
+      "itemSpawnUid": "1e07525d-bf7c-45c0-ac51-ee86dcac8ba6",
+      "regionId": 6195,
+      "chunk": {
+        "x": 194,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 526,
+      "name": "Bones",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1575,
+        "y": 3294,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 5328,
+        "type": 22,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1575,
+        "y": 3294,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 5328,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1575,
+          "y": 3294,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 7,
+      "itemSpawnUid": "a6359022-f5a4-4ee6-af75-2d51a16715a2",
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 411
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 3
+      }
+    },
+    {
+      "itemId": 960,
+      "name": "Plank",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1563,
+        "y": 3316,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 808,
+        "type": 22,
+        "orientation": 3,
+        "supportsItems": true,
+        "x": 1563,
+        "y": 3316,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 808,
+          "type": 22,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1563,
+          "y": 3316,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 6,
+      "itemSpawnUid": "329f770b-7c29-4585-8e5b-a72cf42115f6",
+      "regionId": 6195,
+      "chunk": {
+        "x": 195,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1565,
+        "y": 3318,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 798,
+        "type": 22,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1565,
+        "y": 3318,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 798,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1565,
+          "y": 3318,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 6,
+      "itemSpawnUid": "1471f4b1-b39b-4a23-84a7-9b0bfb3c42f0",
+      "regionId": 6195,
+      "chunk": {
+        "x": 195,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 954,
+      "name": "Rope",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1568,
+        "y": 3317,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "3540076e-ecd2-4c45-9f4c-02fb35dff111",
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 303,
+      "name": "Small fishing net",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1572,
+        "y": 3319,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "c22e2262-6efd-482d-b0c3-6f3ab49590b3",
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 954,
+      "name": "Rope",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1574,
+        "y": 3312,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "de6fa69e-8c9d-4494-acba-0ba55565f048",
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 960,
+      "name": "Plank",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1574,
+        "y": 3317,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 798,
+        "type": 22,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1574,
+        "y": 3317,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 798,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1574,
+          "y": 3317,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "9578ccbd-3a3a-47c8-a361-39be9a7ec37f",
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1575,
+        "y": 3316,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 798,
+        "type": 22,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1575,
+        "y": 3316,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 798,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1575,
+          "y": 3316,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "d5256633-459f-4c9e-b0a7-28ab83bf01a8",
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1576,
+        "y": 3309,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "7c5e394e-ef38-4dc9-8116-367dd876d0ff",
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 305,
+      "name": "Big fishing net",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1578,
+        "y": 3307,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "1af9f819-6eba-4880-a7b6-998ac264607d",
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 960,
+      "name": "Plank",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1579,
+        "y": 3305,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "e1975653-8ebc-45b5-848a-c6093dd54db0",
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1579,
+        "y": 3315,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 798,
+        "type": 22,
+        "orientation": 3,
+        "supportsItems": true,
+        "x": 1579,
+        "y": 3315,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 798,
+          "type": 22,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1579,
+          "y": 3315,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "e8f0ddfe-ab47-4679-95ab-24680daba1b2",
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 995,
+      "name": "Coins",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1580,
+        "y": 3313,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 798,
+        "type": 22,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1580,
+        "y": 3313,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 798,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1580,
+          "y": 3313,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "8a1398c1-0965-4de4-9896-c3cb5d442c09",
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 954,
+      "name": "Rope",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1581,
+        "y": 3299,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "fb5a3fe3-0c03-4ac3-b754-93da25cb777c",
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 412
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 4
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1581,
+        "y": 3305,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 1268,
+        "type": 22,
+        "orientation": 2,
+        "supportsItems": true,
+        "x": 1581,
+        "y": 3305,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 1268,
+          "type": 22,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1581,
+          "y": 3305,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "9ada820c-742d-4ce4-ac9a-6f5b4e5217ab",
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 1351,
+      "name": "Bronze axe",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1582,
+        "y": 3273,
+        "plane": 0
+      },
+      "height": 100,
+      "surface": {
+        "kind": "game",
+        "id": 52425,
+        "type": 11,
+        "orientation": 2,
+        "supportsItems": true,
+        "x": 1582,
+        "y": 3273,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52425,
+          "type": 11,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1582,
+          "y": 3273,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 55125,
+          "type": 22,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1582,
+          "y": 3273,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "a19987f1-d54d-4932-ac6b-2bbc37e85e15",
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 409
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 1
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1582,
+        "y": 3311,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 798,
+        "type": 22,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1582,
+        "y": 3311,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 798,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1582,
+          "y": 3311,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "ad790e41-1c40-4209-8ecf-4ddcb79fa28b",
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 413
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 5
+      }
+    },
+    {
+      "itemId": 960,
+      "name": "Plank",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1583,
+        "y": 3315,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 808,
+        "type": 22,
+        "orientation": 3,
+        "supportsItems": true,
+        "x": 1583,
+        "y": 3315,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 808,
+          "type": 22,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1583,
+          "y": 3315,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "b0636a12-0f5b-4a6c-a83a-bdfdfb1341e8",
+      "regionId": 6195,
+      "chunk": {
+        "x": 197,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 995,
+      "name": "Coins",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1586,
+        "y": 3297,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "98211f1f-8500-43ae-b761-03c294ef36fe",
+      "regionId": 6195,
+      "chunk": {
+        "x": 198,
+        "y": 412
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 4
+      }
+    },
+    {
+      "itemId": 946,
+      "name": "Knife",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1587,
+        "y": 3276,
+        "plane": 0
+      },
+      "height": 91,
+      "surface": {
+        "kind": "game",
+        "id": 52431,
+        "type": 11,
+        "orientation": 0,
+        "supportsItems": true,
+        "x": 1587,
+        "y": 3276,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52431,
+          "type": 11,
+          "orientation": 0,
+          "supportsItems": true,
+          "x": 1587,
+          "y": 3276,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 6,
+      "itemSpawnUid": "04657f7e-1615-42e1-a7cc-e817b8cd0d3d",
+      "regionId": 6195,
+      "chunk": {
+        "x": 198,
+        "y": 409
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 1
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1588,
+        "y": 3299,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "f5c0d583-6343-487a-826b-c0d76f4e4e7e",
+      "regionId": 6195,
+      "chunk": {
+        "x": 198,
+        "y": 412
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 4
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1588,
+        "y": 3316,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 798,
+        "type": 22,
+        "orientation": 3,
+        "supportsItems": true,
+        "x": 1588,
+        "y": 3316,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 798,
+          "type": 22,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1588,
+          "y": 3316,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 5,
+      "itemSpawnUid": "cdd53048-b6e7-4914-b6de-9ba64c63d019",
+      "regionId": 6195,
+      "chunk": {
+        "x": 198,
+        "y": 414
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1592,
+        "y": 3294,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 7119,
+        "type": 22,
+        "orientation": 3,
+        "supportsItems": true,
+        "x": 1592,
+        "y": 3294,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 7119,
+          "type": 22,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1592,
+          "y": 3294,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 8,
+      "itemSpawnUid": "ad36b153-0989-442b-a51b-b0d3c135cdca",
+      "regionId": 6195,
+      "chunk": {
+        "x": 199,
+        "y": 411
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 3
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1597,
+        "y": 3293,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 8,
+      "itemSpawnUid": "7aad71ba-8900-4a4a-bbde-4f75212d3420",
+      "regionId": 6195,
+      "chunk": {
+        "x": 199,
+        "y": 411
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 3
+      }
+    },
+    {
+      "itemId": 995,
+      "name": "Coins",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1569,
+        "y": 3321,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 7117,
+        "type": 22,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1569,
+        "y": 3321,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 7117,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1569,
+          "y": 3321,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 3,
+      "itemSpawnUid": "b1e1a3b1-5ace-4c6e-903a-3008733c103c",
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 7
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1570,
+        "y": 3323,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 3,
+      "itemSpawnUid": "a2f950cc-183b-4703-af16-2deb4733a6c7",
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 7
+      }
+    },
+    {
+      "itemId": 960,
+      "name": "Plank",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1572,
+        "y": 3321,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 3,
+      "itemSpawnUid": "4ddaffa8-6ffd-49b4-87e4-1357e8ebc566",
+      "regionId": 6195,
+      "chunk": {
+        "x": 196,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 7
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1560,
+        "y": 3327,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "22a7f0ae-402f-4442-a8f1-6d3caa9525b4",
+      "regionId": 6195,
+      "chunk": {
+        "x": 195,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 7
+      }
+    },
+    {
+      "itemId": 305,
+      "name": "Big fishing net",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1565,
+        "y": 3324,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "698471a6-02c7-4fac-b61e-c7dbfdf00a81",
+      "regionId": 6195,
+      "chunk": {
+        "x": 195,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 7
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1557,
+        "y": 3324,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 3,
+      "itemSpawnUid": "07b7e279-3dfd-4cf9-b9d4-e2f306292997",
+      "regionId": 6195,
+      "chunk": {
+        "x": 194,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 7
+      }
+    },
+    {
+      "itemId": 526,
+      "name": "Bones",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1545,
+        "y": 3327,
+        "plane": 0
+      },
+      "height": 0,
+      "surface": {
+        "kind": "ground",
+        "id": 31777,
+        "type": 22,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1545,
+        "y": 3327,
+        "plane": 0,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "ground",
+          "id": 31777,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1545,
+          "y": 3327,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 2,
+      "itemSpawnUid": "36534df1-3b4d-41a4-91d5-d133cc28ede4",
+      "regionId": 6195,
+      "chunk": {
+        "x": 193,
+        "y": 415
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 7
+      }
+    }
+  ],
+  "deletedUids": [],
+  "pools": [],
+  "objects": []
+}

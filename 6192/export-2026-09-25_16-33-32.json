@@ -1,0 +1,2153 @@
+{
+  "version": 4,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 6192,
+  "exportedAt": "2026-09-25T20:33:32.692Z",
+  "gameRevision": 241,
+  "npcs": [
+    {
+      "npcId": 12982,
+      "visibleId": 12982,
+      "name": "Jerboa",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1578,
+        "y": 3072,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 165,
+          "timestamp": 1790366427525,
+          "to": 256
+        },
+        {
+          "tick": 617,
+          "timestamp": 1790366719183,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 627,
+          "timestamp": 1790366725178,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 662,
+          "timestamp": 1790366746163,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 690,
+          "timestamp": 1790366762989,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 727,
+          "timestamp": 1790366785174,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 1317,
+          "timestamp": 1790368097562,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 1338,
+          "timestamp": 1790368110173,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 1348,
+          "timestamp": 1790368116174,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 1400,
+          "timestamp": 1790368147369,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 1416,
+          "timestamp": 1790368156971,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 1428,
+          "timestamp": 1790368164164,
+          "from": 768,
+          "to": 1024
+        },
+        {
+          "tick": 1439,
+          "timestamp": 1790368170789,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 1452,
+          "timestamp": 1790368178603,
+          "from": 1280,
+          "to": 768
+        },
+        {
+          "tick": 1471,
+          "timestamp": 1790368189994,
+          "from": 768,
+          "to": 1024
+        },
+        {
+          "tick": 1481,
+          "timestamp": 1790368195974,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 1492,
+          "timestamp": 1790368202575,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 1506,
+          "timestamp": 1790368210997,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 1533,
+          "timestamp": 1790368227186,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 1574,
+          "timestamp": 1790368251828,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 1619,
+          "timestamp": 1790368278816,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 1635,
+          "timestamp": 1790368288387,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 1647,
+          "timestamp": 1790368295588,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 1658,
+          "timestamp": 1790368302214,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 1667,
+          "timestamp": 1790368307604,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 1693,
+          "timestamp": 1790368323214,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 1727,
+          "timestamp": 1790368343607,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 1736,
+          "timestamp": 1790368349000,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 2,
+          "timestamp": 1790368403024,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 12,
+          "timestamp": 1790368409022,
+          "from": 1024,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 621,
+      "samples": 621,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 127,
+      "estimateRevisions": 8,
+      "spawnUid": "b42ca21d-3bb7-412b-8601-1b51729fefc7",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4298,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4298,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 197,
+        "y": 384
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 0
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1562,
+        "y": 3090,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 10,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 172,
+          "timestamp": 1790366431722,
+          "to": 768
+        },
+        {
+          "tick": 417,
+          "timestamp": 1790366599176,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 524,
+          "timestamp": 1790366663374,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 531,
+          "timestamp": 1790366667572,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 541,
+          "timestamp": 1790366673546,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 559,
+          "timestamp": 1790366684397,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 579,
+          "timestamp": 1790366696364,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 589,
+          "timestamp": 1790366702364,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 190,
+      "samples": 190,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 63,
+      "estimateRevisions": 2,
+      "spawnUid": "64f0f0e7-b692-4ee8-924b-0f746e758f96",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4280,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4280,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4280,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 195,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1560,
+        "y": 3091,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 8,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 173,
+          "timestamp": 1790366432321,
+          "to": 512
+        },
+        {
+          "tick": 183,
+          "timestamp": 1790366438321,
+          "from": 512,
+          "to": 768
+        },
+        {
+          "tick": 399,
+          "timestamp": 1790366588359,
+          "from": 768,
+          "to": 1024
+        },
+        {
+          "tick": 420,
+          "timestamp": 1790366600959,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 469,
+          "timestamp": 1790366630378,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 521,
+          "timestamp": 1790366661583,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 550,
+          "timestamp": 1790366678984,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 580,
+          "timestamp": 1790366696964,
+          "from": 1280,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 244,
+      "samples": 244,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 67,
+      "estimateRevisions": 4,
+      "spawnUid": "eb67a83a-b7ae-4a7b-842f-ccb9078e954a",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4281,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4281,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4281,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 195,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1554,
+        "y": 3092,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 186,
+          "timestamp": 1790366440125,
+          "to": 1024
+        },
+        {
+          "tick": 450,
+          "timestamp": 1790366618965,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 469,
+          "timestamp": 1790366630378,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 479,
+          "timestamp": 1790366636383,
+          "from": 768,
+          "to": 1024
+        },
+        {
+          "tick": 509,
+          "timestamp": 1790366654331,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 540,
+          "timestamp": 1790366672998,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 549,
+          "timestamp": 1790366678386,
+          "from": 1280,
+          "to": 1792
+        },
+        {
+          "tick": 559,
+          "timestamp": 1790366684397,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 582,
+          "timestamp": 1790366698202,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 587,
+          "timestamp": 1790366701176,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 595,
+          "timestamp": 1790366705975,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 248,
+      "samples": 248,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 75,
+      "estimateRevisions": 3,
+      "spawnUid": "6d737070-66aa-4ce1-b429-d97c1f00c398",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4257,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4257,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4257,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 194,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1553,
+        "y": 3084,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 10,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 181,
+          "timestamp": 1790366437150,
+          "to": 512
+        },
+        {
+          "tick": 189,
+          "timestamp": 1790366447301,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 201,
+          "timestamp": 1790366454523,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 398,
+          "timestamp": 1790366587744,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 404,
+          "timestamp": 1790366591369,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 433,
+          "timestamp": 1790366608764,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 444,
+          "timestamp": 1790366615381,
+          "from": 0,
+          "to": 1792
+        },
+        {
+          "tick": 606,
+          "timestamp": 1790366712600,
+          "from": 1792,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 105,
+      "samples": 105,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 27,
+      "estimateRevisions": 4,
+      "spawnUid": "f97a11a9-50fb-43bd-83ff-2c390b4ce2f2",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4267,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4267,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4267,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 194,
+        "y": 385
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1559,
+        "y": 3095,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 182,
+          "timestamp": 1790366437721,
+          "to": 0
+        },
+        {
+          "tick": 193,
+          "timestamp": 1790366449702,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 484,
+          "timestamp": 1790366639385,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 509,
+          "timestamp": 1790366654331,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 533,
+          "timestamp": 1790366668763,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 568,
+          "timestamp": 1790366689805,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 597,
+          "timestamp": 1790366707202,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 185,
+      "samples": 185,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 34,
+      "estimateRevisions": 7,
+      "spawnUid": "32081d3f-e415-4f43-8c3a-84234ae8405e",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4278,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4278,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4278,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 194,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1560,
+        "y": 3088,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 189,
+          "timestamp": 1790366447301,
+          "to": 1536
+        },
+        {
+          "tick": 400,
+          "timestamp": 1790366588951,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 412,
+          "timestamp": 1790366596156,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 431,
+          "timestamp": 1790366607546,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 454,
+          "timestamp": 1790366621389,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 507,
+          "timestamp": 1790366653144,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 532,
+          "timestamp": 1790366668173,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 565,
+          "timestamp": 1790366687981,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 575,
+          "timestamp": 1790366693988,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 591,
+          "timestamp": 1790366703576,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 231,
+      "samples": 231,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 1,
+      "estimateRevisions": 6,
+      "spawnUid": "384ed2bd-ae92-42fc-9f93-3c43cace168f",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4276,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4276,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4276,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 195,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1559,
+        "y": 3088,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 8,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 183,
+          "timestamp": 1790366438321,
+          "to": 1536
+        },
+        {
+          "tick": 189,
+          "timestamp": 1790366447301,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 445,
+          "timestamp": 1790366615985,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 468,
+          "timestamp": 1790366629745,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 489,
+          "timestamp": 1790366642356,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 506,
+          "timestamp": 1790366652572,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 561,
+          "timestamp": 1790366685585,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 579,
+          "timestamp": 1790366696364,
+          "from": 512,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 235,
+      "samples": 235,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 146,
+      "estimateRevisions": 2,
+      "spawnUid": "faba245f-3dc6-487f-a719-3d5319cbd1e9",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4268,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4268,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4268,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 194,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1554,
+        "y": 3088,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 10,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 179,
+          "timestamp": 1790366435922,
+          "to": 1024
+        },
+        {
+          "tick": 186,
+          "timestamp": 1790366440125,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 199,
+          "timestamp": 1790366453293,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 401,
+          "timestamp": 1790366589557,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 423,
+          "timestamp": 1790366602764,
+          "from": 1280,
+          "to": 768
+        },
+        {
+          "tick": 435,
+          "timestamp": 1790366609944,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 469,
+          "timestamp": 1790366630378,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 486,
+          "timestamp": 1790366640564,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 543,
+          "timestamp": 1790366674804,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 560,
+          "timestamp": 1790366684985,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 578,
+          "timestamp": 1790366695776,
+          "from": 256,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 237,
+      "samples": 237,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 101,
+      "estimateRevisions": 5,
+      "spawnUid": "a151688a-cd3b-4ca1-bdc3-70481991888c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4260,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4260,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4260,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 194,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1563,
+        "y": 3088,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 179,
+          "timestamp": 1790366435922,
+          "to": 768
+        },
+        {
+          "tick": 415,
+          "timestamp": 1790366597948,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 435,
+          "timestamp": 1790366609944,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 456,
+          "timestamp": 1790366622544,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 484,
+          "timestamp": 1790366639385,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 526,
+          "timestamp": 1790366664579,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 540,
+          "timestamp": 1790366672998,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 551,
+          "timestamp": 1790366679584,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 564,
+          "timestamp": 1790366687378,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 606,
+          "timestamp": 1790366712600,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 228,
+      "samples": 228,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 15,
+      "estimateRevisions": 4,
+      "spawnUid": "210ec6eb-74e2-4f15-be95-6662d235dffc",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4286,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4286,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4286,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 195,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1551,
+        "y": 3094,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 8,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 402,
+          "timestamp": 1790366590156,
+          "to": 512
+        },
+        {
+          "tick": 438,
+          "timestamp": 1790366611746,
+          "from": 512,
+          "to": 768
+        },
+        {
+          "tick": 451,
+          "timestamp": 1790366619565,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 466,
+          "timestamp": 1790366628543,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 488,
+          "timestamp": 1790366641779,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 508,
+          "timestamp": 1790366653778,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 529,
+          "timestamp": 1790366666383,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 591,
+          "timestamp": 1790366703576,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 223,
+      "samples": 223,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 83,
+      "estimateRevisions": 0,
+      "spawnUid": "336cf1ef-5040-4f0e-8618-83798a6db729",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4261,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4261,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 193,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12982,
+      "visibleId": 12982,
+      "name": "Jerboa",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1552,
+        "y": 3079,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 256,
+      "facing": "SOUTH_WEST",
+      "orientationChanges": [
+        {
+          "tick": 179,
+          "timestamp": 1790366435922,
+          "to": 1024
+        },
+        {
+          "tick": 189,
+          "timestamp": 1790366447301,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 406,
+          "timestamp": 1790366592563,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 424,
+          "timestamp": 1790366603393,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 434,
+          "timestamp": 1790366609385,
+          "from": 0,
+          "to": 256
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 87,
+      "samples": 87,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 7,
+      "estimateRevisions": 2,
+      "spawnUid": "76ba1b6c-6ab6-4850-9395-a2f3e435db21",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4255,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4255,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4255,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 194,
+        "y": 384
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 0
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1548,
+        "y": 3092,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 8,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 198,
+          "timestamp": 1790366452701,
+          "to": 1536
+        },
+        {
+          "tick": 410,
+          "timestamp": 1790366594976,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 425,
+          "timestamp": 1790366603968,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 462,
+          "timestamp": 1790366626163,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 469,
+          "timestamp": 1790366630378,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 549,
+          "timestamp": 1790366678386,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 572,
+          "timestamp": 1790366692168,
+          "from": 1536,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 253,
+      "samples": 253,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 1,
+      "estimateRevisions": 4,
+      "spawnUid": "7cc35d67-7f86-4cee-a942-c855488e9d84",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4254,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4254,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4254,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 193,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1551,
+        "y": 3089,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 10,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 182,
+          "timestamp": 1790366437721,
+          "to": 512
+        },
+        {
+          "tick": 189,
+          "timestamp": 1790366447301,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 197,
+          "timestamp": 1790366452103,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 368,
+          "timestamp": 1790366569751,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 405,
+          "timestamp": 1790366591968,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 416,
+          "timestamp": 1790366598586,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 432,
+          "timestamp": 1790366608163,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 472,
+          "timestamp": 1790366632177,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 494,
+          "timestamp": 1790366645344,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 511,
+          "timestamp": 1790366655576,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 525,
+          "timestamp": 1790366663966,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 554,
+          "timestamp": 1790366681365,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 602,
+          "timestamp": 1790366710185,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 261,
+      "samples": 261,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 14,
+      "estimateRevisions": 14,
+      "spawnUid": "31f1d350-1e95-449c-9811-f2630c670491",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4253,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4253,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4253,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 193,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13002,
+      "visibleId": 13002,
+      "name": "Snake",
+      "size": 1,
+      "combatLevel": 5,
+      "spawn": {
+        "x": 1538,
+        "y": 3076,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 186,
+          "timestamp": 1790366440125,
+          "to": 512
+        },
+        {
+          "tick": 200,
+          "timestamp": 1790366453905,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 322,
+          "timestamp": 1790366542144,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 386,
+          "timestamp": 1790366580548,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 393,
+          "timestamp": 1790366584753,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 79,
+      "samples": 79,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 19,
+      "estimateRevisions": 1,
+      "spawnUid": "7f65916d-290a-4d5e-9bb2-398e69666226",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 337,
+          "index": 4243,
+          "revision": 241
+        },
+        {
+          "world": 559,
+          "index": 4243,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4243,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 192,
+        "y": 384
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 0
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1555,
+        "y": 3090,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 189,
+          "timestamp": 1790366447301,
+          "to": 512
+        },
+        {
+          "tick": 195,
+          "timestamp": 1790366450902,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 422,
+          "timestamp": 1790366602152,
+          "from": 1024,
+          "to": 768
+        },
+        {
+          "tick": 443,
+          "timestamp": 1790366614775,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 477,
+          "timestamp": 1790366635168,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 491,
+          "timestamp": 1790366643557,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 520,
+          "timestamp": 1790366660980,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 552,
+          "timestamp": 1790366680184,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 594,
+          "timestamp": 1790366705365,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 608,
+          "timestamp": 1790366713776,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 229,
+      "samples": 229,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 139,
+      "estimateRevisions": 8,
+      "spawnUid": "749eb346-13b8-4a2b-9cb7-cb583892476b",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 559,
+          "index": 4264,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4264,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 194,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1556,
+        "y": 3092,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 399,
+          "timestamp": 1790366588359,
+          "to": 1024
+        },
+        {
+          "tick": 434,
+          "timestamp": 1790366609385,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 473,
+          "timestamp": 1790366632756,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 493,
+          "timestamp": 1790366644787,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 522,
+          "timestamp": 1790366662157,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 569,
+          "timestamp": 1790366690403,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 224,
+      "samples": 224,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 34,
+      "estimateRevisions": 6,
+      "spawnUid": "f6f8db96-e493-447b-a744-a857843a7cb3",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 559,
+          "index": 4269,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4269,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 194,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12770,
+      "visibleId": 12770,
+      "name": "Sunlight Moth",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1559,
+        "y": 3090,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 189,
+          "timestamp": 1790366447301,
+          "to": 256
+        },
+        {
+          "tick": 419,
+          "timestamp": 1790366600371,
+          "from": 256,
+          "to": 0
+        },
+        {
+          "tick": 442,
+          "timestamp": 1790366614161,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 451,
+          "timestamp": 1790366619565,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 556,
+          "timestamp": 1790366682577,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 565,
+          "timestamp": 1790366687981,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 585,
+          "timestamp": 1790366699967,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 603,
+          "timestamp": 1790366710790,
+          "from": 512,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 232,
+      "samples": 232,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 95,
+      "estimateRevisions": 11,
+      "spawnUid": "6fd7a144-b763-49cf-95fc-d702c4a92d12",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 559,
+          "index": 4277,
+          "revision": 241
+        },
+        {
+          "world": 494,
+          "index": 4277,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 194,
+        "y": 386
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12982,
+      "visibleId": 12982,
+      "name": "Jerboa",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1543,
+        "y": 3100,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 456,
+          "timestamp": 1790366622544,
+          "to": 1536
+        },
+        {
+          "tick": 476,
+          "timestamp": 1790366634583,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 495,
+          "timestamp": 1790366645962,
+          "from": 0,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 73,
+      "samples": 73,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 23,
+      "estimateRevisions": 0,
+      "spawnUid": "a42c7d9f-d084-400f-ac73-da9da2842065",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 494,
+          "index": 4245,
+          "revision": 241
+        }
+      ],
+      "regionId": 6192,
+      "chunk": {
+        "x": 192,
+        "y": 387
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [],
+  "deletedUids": []
+}

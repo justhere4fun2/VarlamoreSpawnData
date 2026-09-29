@@ -1,0 +1,2111 @@
+{
+  "version": 6,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 5681,
+  "exportedAt": "2026-09-28T20:23:31.848Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 13276,
+      "visibleId": 13276,
+      "name": "Nelta of Ranul",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1449,
+        "y": 3194,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 3,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 23413,
+          "timestamp": 1790455678265,
+          "to": 1536
+        },
+        {
+          "tick": 204,
+          "timestamp": 1790626225043,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 285,
+          "timestamp": 1790626273647,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 290,
+          "timestamp": 1790626276656,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 304,
+          "timestamp": 1790626285047,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 317,
+          "timestamp": 1790626292851,
+          "from": 1024,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 67,
+      "samples": 67,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 49,
+      "estimateRevisions": 0,
+      "spawnUid": "84824e9f-4f0b-49a8-a19d-a799ea9b292d",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2596,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 2596,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 181,
+        "y": 399
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13266,
+      "visibleId": 13266,
+      "name": "Nelta of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1459,
+        "y": 3190,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 23417,
+          "timestamp": 1790455680680,
+          "to": 0
+        },
+        {
+          "tick": 23439,
+          "timestamp": 1790455693895,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 23499,
+          "timestamp": 1790455729895,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 23520,
+          "timestamp": 1790455742503,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 26199,
+          "timestamp": 1790624530613,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 205,
+          "timestamp": 1790626225631,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 285,
+          "timestamp": 1790626273647,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 326,
+          "timestamp": 1790626298239,
+          "from": 0,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 175,
+      "samples": 175,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 56,
+      "estimateRevisions": 4,
+      "spawnUid": "4b195999-2896-499d-a326-4e3f02a1c416",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2604,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 2604,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 182,
+        "y": 398
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13106,
+      "visibleId": 13106,
+      "name": "Guard",
+      "size": 1,
+      "combatLevel": 21,
+      "spawn": {
+        "x": 1455,
+        "y": 3186,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 3,
+      "static": false,
+      "orientation": 1280,
+      "facing": "NORTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 23446,
+          "timestamp": 1790455698102,
+          "to": 0
+        },
+        {
+          "tick": 23456,
+          "timestamp": 1790455704078,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 23463,
+          "timestamp": 1790455708301,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 23487,
+          "timestamp": 1790455722720,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 23494,
+          "timestamp": 1790455726900,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 23502,
+          "timestamp": 1790455731700,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 23519,
+          "timestamp": 1790455741918,
+          "from": 768,
+          "to": 1280
+        },
+        {
+          "tick": 23524,
+          "timestamp": 1790455744903,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 207,
+          "timestamp": 1790626226850,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 305,
+          "timestamp": 1790626285642,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 325,
+          "timestamp": 1790626297658,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 331,
+          "timestamp": 1790626301260,
+          "from": 1536,
+          "to": 1280
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 152,
+      "samples": 152,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 33,
+      "estimateRevisions": 1,
+      "spawnUid": "58277562-07d8-4f2a-9004-6064b7a2f3f6",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2603,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 181,
+        "y": 398
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13271,
+      "visibleId": 13271,
+      "name": "Nelta of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1455,
+        "y": 3177,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 23438,
+          "timestamp": 1790455693281,
+          "to": 0
+        },
+        {
+          "tick": 23478,
+          "timestamp": 1790455717301,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 23487,
+          "timestamp": 1790455722720,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 23500,
+          "timestamp": 1790455730471,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 23513,
+          "timestamp": 1790455738282,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 202,
+          "timestamp": 1790626223834,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 296,
+          "timestamp": 1790626280238,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 301,
+          "timestamp": 1790626283251,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 307,
+          "timestamp": 1790626286843,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 322,
+          "timestamp": 1790626295849,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 334,
+          "timestamp": 1790626303048,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 179,
+      "samples": 179,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 31,
+      "estimateRevisions": 2,
+      "spawnUid": "5290f699-1e40-4657-8333-3eba342670e4",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2601,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 181,
+        "y": 397
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13266,
+      "visibleId": 13266,
+      "name": "Nelta of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1446,
+        "y": 3188,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 8,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 23458,
+          "timestamp": 1790455705299,
+          "to": 512
+        },
+        {
+          "tick": 23464,
+          "timestamp": 1790455708923,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 23475,
+          "timestamp": 1790455715471,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 287,
+          "timestamp": 1790626274850,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 296,
+          "timestamp": 1790626280238,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 306,
+          "timestamp": 1790626286248,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 315,
+          "timestamp": 1790626291663,
+          "from": 0,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 117,
+      "samples": 117,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 61,
+      "estimateRevisions": 0,
+      "spawnUid": "0149ec76-7cd1-4a00-8436-9a493dcb093a",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2593,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 180,
+        "y": 398
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 4117,
+      "visibleId": 4117,
+      "name": "Mountain goat",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1414,
+        "y": 3157,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 1280,
+      "facing": "NORTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 109,
+          "timestamp": 1790626168027,
+          "to": 1536
+        },
+        {
+          "tick": 120,
+          "timestamp": 1790626174633,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 143,
+          "timestamp": 1790626188433,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 149,
+          "timestamp": 1790626192039,
+          "from": 1792,
+          "to": 0
+        },
+        {
+          "tick": 159,
+          "timestamp": 1790626198039,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 169,
+          "timestamp": 1790626204053,
+          "from": 512,
+          "to": 1280
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 69,
+      "samples": 69,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 29,
+      "estimateRevisions": 0,
+      "spawnUid": "13646609-d8fa-482d-b8d5-78cc2ddb881b",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2582,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 176,
+        "y": 394
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13107,
+      "visibleId": 13107,
+      "name": "Guard",
+      "size": 1,
+      "combatLevel": 21,
+      "spawn": {
+        "x": 1419,
+        "y": 3178,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 3,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 121,
+          "timestamp": 1790626175225,
+          "to": 256
+        },
+        {
+          "tick": 137,
+          "timestamp": 1790626184827,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 181,
+          "timestamp": 1790626211247,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 403,
+          "timestamp": 1790626344462,
+          "from": 256,
+          "to": 0
+        },
+        {
+          "tick": 414,
+          "timestamp": 1790626351054,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 421,
+          "timestamp": 1790626355258,
+          "from": 1024,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 115,
+      "samples": 115,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 53,
+      "estimateRevisions": 1,
+      "spawnUid": "5cb9d6f8-a081-4f16-81b0-ed252480631b",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2584,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 177,
+        "y": 397
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13101,
+      "visibleId": 13101,
+      "name": "Guard",
+      "size": 1,
+      "combatLevel": 21,
+      "spawn": {
+        "x": 1414,
+        "y": 3177,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 117,
+          "timestamp": 1790626172820,
+          "to": 1536
+        },
+        {
+          "tick": 129,
+          "timestamp": 1790626180036,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 136,
+          "timestamp": 1790626184253,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 146,
+          "timestamp": 1790626190239,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 153,
+          "timestamp": 1790626194452,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 166,
+          "timestamp": 1790626202233,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 176,
+          "timestamp": 1790626208236,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 187,
+          "timestamp": 1790626214842,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 410,
+          "timestamp": 1790626348646,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 430,
+          "timestamp": 1790626360655,
+          "from": 1024,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 111,
+      "samples": 111,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 29,
+      "estimateRevisions": 0,
+      "spawnUid": "8650f3a9-90d3-4601-8c10-b88b2aab6044",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2581,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 176,
+        "y": 397
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13103,
+      "visibleId": 13103,
+      "name": "Guard",
+      "size": 1,
+      "combatLevel": 21,
+      "spawn": {
+        "x": 1420,
+        "y": 3185,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 178,
+          "timestamp": 1790626209434,
+          "to": 1536
+        },
+        {
+          "tick": 190,
+          "timestamp": 1790626216635,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 406,
+          "timestamp": 1790626346244,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 421,
+          "timestamp": 1790626355258,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 428,
+          "timestamp": 1790626359461,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 63,
+      "samples": 63,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 12,
+      "estimateRevisions": 3,
+      "spawnUid": "e2656ce4-8aa7-4fa5-a1eb-b2d2cdf8741b",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2585,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 177,
+        "y": 398
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13109,
+      "visibleId": 13109,
+      "name": "Guard",
+      "size": 1,
+      "combatLevel": 21,
+      "spawn": {
+        "x": 1414,
+        "y": 3187,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 173,
+          "timestamp": 1790626206483,
+          "to": 1024
+        },
+        {
+          "tick": 180,
+          "timestamp": 1790626210630,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 188,
+          "timestamp": 1790626215458,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 402,
+          "timestamp": 1790626343849,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 409,
+          "timestamp": 1790626348053,
+          "from": 1792,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 54,
+      "samples": 54,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 28,
+      "estimateRevisions": 3,
+      "spawnUid": "b3cd0f30-3c5c-48f4-b7eb-bd1a7a92ff9c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2583,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 176,
+        "y": 398
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13270,
+      "visibleId": 13270,
+      "name": "Nelta of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1440,
+        "y": 3190,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 3,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 184,
+          "timestamp": 1790626213018,
+          "to": 512
+        },
+        {
+          "tick": 292,
+          "timestamp": 1790626277847,
+          "from": 512,
+          "to": 768
+        },
+        {
+          "tick": 298,
+          "timestamp": 1790626281462,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 331,
+          "timestamp": 1790626301260,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 78,
+      "samples": 78,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 41,
+      "estimateRevisions": 0,
+      "spawnUid": "635b9618-7c51-49f0-8cf6-2b46cf48825b",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2590,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 180,
+        "y": 398
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13265,
+      "visibleId": 13265,
+      "name": "Nelta of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1439,
+        "y": 3182,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 3,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 187,
+          "timestamp": 1790626214842,
+          "to": 768
+        },
+        {
+          "tick": 285,
+          "timestamp": 1790626273647,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 300,
+          "timestamp": 1790626282637,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 319,
+          "timestamp": 1790626294018,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 326,
+          "timestamp": 1790626298239,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 336,
+          "timestamp": 1790626304252,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 401,
+          "timestamp": 1790626343255,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 101,
+      "samples": 101,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 33,
+      "estimateRevisions": 2,
+      "spawnUid": "d4b919b0-7409-47e7-bf49-167f4f2e0f0e",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2587,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 179,
+        "y": 397
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13100,
+      "visibleId": 13100,
+      "name": "Guard",
+      "size": 1,
+      "combatLevel": 21,
+      "spawn": {
+        "x": 1445,
+        "y": 3178,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 186,
+          "timestamp": 1790626214254,
+          "to": 1024
+        },
+        {
+          "tick": 202,
+          "timestamp": 1790626223834,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 285,
+          "timestamp": 1790626273647,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 331,
+          "timestamp": 1790626301260,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 344,
+          "timestamp": 1790626309072,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 398,
+          "timestamp": 1790626341460,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 407,
+          "timestamp": 1790626346858,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 89,
+      "samples": 89,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 29,
+      "estimateRevisions": 0,
+      "spawnUid": "f10ded5f-ee9d-487c-b544-f4a194f5cc78",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2591,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 180,
+        "y": 397
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13108,
+      "visibleId": 13108,
+      "name": "Guard",
+      "size": 1,
+      "combatLevel": 21,
+      "spawn": {
+        "x": 1440,
+        "y": 3173,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 3,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 188,
+          "timestamp": 1790626215458,
+          "to": 512
+        },
+        {
+          "tick": 195,
+          "timestamp": 1790626219646,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 204,
+          "timestamp": 1790626225043,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 287,
+          "timestamp": 1790626274850,
+          "from": 1024,
+          "to": 768
+        },
+        {
+          "tick": 333,
+          "timestamp": 1790626302450,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 339,
+          "timestamp": 1790626306061,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 352,
+          "timestamp": 1790626313846,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 394,
+          "timestamp": 1790626339057,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 402,
+          "timestamp": 1790626343849,
+          "from": 0,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 76,
+      "samples": 76,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 25,
+      "estimateRevisions": 0,
+      "spawnUid": "f17ba9f1-7699-42cf-a3fe-b10e51e444f8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2588,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 180,
+        "y": 396
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13270,
+      "visibleId": 13270,
+      "name": "Nelta of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1450,
+        "y": 3173,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 202,
+          "timestamp": 1790626223834,
+          "to": 512
+        },
+        {
+          "tick": 285,
+          "timestamp": 1790626273647,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 344,
+          "timestamp": 1790626309072,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 395,
+          "timestamp": 1790626339656,
+          "from": 256,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 54,
+      "samples": 54,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 3,
+      "estimateRevisions": 4,
+      "spawnUid": "6162c45f-0283-44b9-942f-5fb6ba158f1c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2592,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 181,
+        "y": 396
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13265,
+      "visibleId": 13265,
+      "name": "Nelta of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1450,
+        "y": 3179,
+        "plane": 1
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 214,
+          "timestamp": 1790626231035,
+          "to": 512
+        },
+        {
+          "tick": 228,
+          "timestamp": 1790626239456,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 242,
+          "timestamp": 1790626247855,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 276,
+          "timestamp": 1790626268239,
+          "from": 256,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 69,
+      "samples": 69,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 16,
+      "estimateRevisions": 1,
+      "spawnUid": "9e371400-4621-4c0b-8a9e-a7385325d0e8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2607,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 181,
+        "y": 397
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13281,
+      "visibleId": 13281,
+      "name": "Nelta of Ranul",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1447,
+        "y": 3186,
+        "plane": 1
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 214,
+          "timestamp": 1790626231035,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 69,
+      "samples": 69,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 68,
+      "estimateRevisions": 0,
+      "spawnUid": "b2191740-9d50-4de4-a4e7-84ad362c4696",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2606,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 180,
+        "y": 398
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13270,
+      "visibleId": 13270,
+      "name": "Nelta of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1442,
+        "y": 3183,
+        "plane": 1
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 3,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 220,
+          "timestamp": 1790626234665,
+          "to": 0
+        },
+        {
+          "tick": 224,
+          "timestamp": 1790626237055,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 259,
+          "timestamp": 1790626258042,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 276,
+          "timestamp": 1790626268239,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 65,
+      "samples": 65,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 10,
+      "estimateRevisions": 1,
+      "spawnUid": "4c99d36e-353b-43dc-883e-4a9e5369f3ab",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2605,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 180,
+        "y": 397
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13266,
+      "visibleId": 13266,
+      "name": "Nelta of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1457,
+        "y": 3188,
+        "plane": 1
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 256,
+      "facing": "SOUTH_WEST",
+      "orientationChanges": [
+        {
+          "tick": 217,
+          "timestamp": 1790626232865,
+          "to": 1536
+        },
+        {
+          "tick": 224,
+          "timestamp": 1790626237055,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 236,
+          "timestamp": 1790626244257,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 262,
+          "timestamp": 1790626259838,
+          "from": 1536,
+          "to": 256
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 69,
+      "samples": 69,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 47,
+      "estimateRevisions": 0,
+      "spawnUid": "de26b53a-5fe8-4a8f-b259-f9588feae4e8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2609,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 182,
+        "y": 398
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13271,
+      "visibleId": 13271,
+      "name": "Nelta of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1450,
+        "y": 3194,
+        "plane": 1
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 3,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 214,
+          "timestamp": 1790626231035,
+          "to": 1536
+        },
+        {
+          "tick": 232,
+          "timestamp": 1790626241840,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 240,
+          "timestamp": 1790626246656,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 245,
+          "timestamp": 1790626249655,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 69,
+      "samples": 69,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 43,
+      "estimateRevisions": 0,
+      "spawnUid": "abe0c98f-e095-4293-8373-09244cc2378d",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2608,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 181,
+        "y": 399
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13346,
+      "visibleId": 13346,
+      "name": "Virilis",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1443,
+        "y": 3154,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 354,
+          "timestamp": 1790626315038,
+          "to": 1792
+        },
+        {
+          "tick": 361,
+          "timestamp": 1790626319262,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 374,
+          "timestamp": 1790626327061,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 45,
+      "samples": 45,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 21,
+      "estimateRevisions": 3,
+      "spawnUid": "6f760c91-0acd-4c99-b3ea-d468080d040c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 547,
+          "index": 2589,
+          "revision": 240
+        }
+      ],
+      "regionId": 5681,
+      "chunk": {
+        "x": 180,
+        "y": 394
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [
+    {
+      "itemId": 33,
+      "name": "Lit candle",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1451,
+        "y": 3193,
+        "plane": 0
+      },
+      "height": 96,
+      "surface": {
+        "kind": "game",
+        "id": 52458,
+        "type": 10,
+        "orientation": 2,
+        "supportsItems": true,
+        "x": 1451,
+        "y": 3193,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52458,
+          "type": 10,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1451,
+          "y": 3193,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 1
+        },
+        {
+          "kind": "wall",
+          "id": 52784,
+          "type": 0,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1451,
+          "y": 3193,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 15639,
+          "type": 22,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1451,
+          "y": 3193,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 14,
+      "itemSpawnUid": "8d27e9bf-70c7-42aa-9c5d-28cebd9c55fd",
+      "regionId": 5681,
+      "chunk": {
+        "x": 181,
+        "y": 399
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 7
+      }
+    },
+    {
+      "itemId": 970,
+      "name": "Papyrus",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1452,
+        "y": 3193,
+        "plane": 0
+      },
+      "height": 96,
+      "surface": {
+        "kind": "game",
+        "id": 52458,
+        "type": 10,
+        "orientation": 2,
+        "supportsItems": true,
+        "x": 1451,
+        "y": 3193,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52458,
+          "type": 10,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1451,
+          "y": 3193,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 1
+        },
+        {
+          "kind": "wall",
+          "id": 52784,
+          "type": 2,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1452,
+          "y": 3193,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 15639,
+          "type": 22,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1452,
+          "y": 3193,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 14,
+      "itemSpawnUid": "ce65e5eb-4923-42fd-bda4-ce67f6da0b2c",
+      "regionId": 5681,
+      "chunk": {
+        "x": 181,
+        "y": 399
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 7
+      }
+    },
+    {
+      "itemId": 2347,
+      "name": "Hammer",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1420,
+        "y": 3186,
+        "plane": 0
+      },
+      "height": 96,
+      "surface": {
+        "kind": "game",
+        "id": 52458,
+        "type": 10,
+        "orientation": 2,
+        "supportsItems": true,
+        "x": 1420,
+        "y": 3186,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52458,
+          "type": 10,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1420,
+          "y": 3186,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 1
+        },
+        {
+          "kind": "wall",
+          "id": 52784,
+          "type": 0,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1420,
+          "y": 3186,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 15639,
+          "type": 22,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1420,
+          "y": 3186,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 11,
+      "itemSpawnUid": "f460b150-751c-4fcc-af09-6c1a077ed298",
+      "regionId": 5681,
+      "chunk": {
+        "x": 177,
+        "y": 398
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 1733,
+      "name": "Needle",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1448,
+        "y": 3195,
+        "plane": 1
+      },
+      "height": 91,
+      "surface": {
+        "kind": "game",
+        "id": 52431,
+        "type": 11,
+        "orientation": 1,
+        "supportsItems": true,
+        "x": 1448,
+        "y": 3195,
+        "plane": 1,
+        "sizeX": 1,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 52431,
+          "type": 11,
+          "orientation": 1,
+          "supportsItems": true,
+          "x": 1448,
+          "y": 3195,
+          "plane": 1,
+          "sizeX": 1,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 3614,
+          "type": 22,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1448,
+          "y": 3195,
+          "plane": 1,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 3,
+      "itemSpawnUid": "30af9c9c-fdbb-4ca8-ad85-26429edee60d",
+      "regionId": 5681,
+      "chunk": {
+        "x": 181,
+        "y": 399
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 7
+      }
+    }
+  ],
+  "deletedUids": [],
+  "pools": [],
+  "objects": []
+}

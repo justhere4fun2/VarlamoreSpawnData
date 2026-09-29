@@ -1,0 +1,60 @@
+{
+  "version": 6,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 5933,
+  "exportedAt": "2026-09-28T20:21:35.022Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 281,
+      "visibleId": 281,
+      "name": "Gull",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1474,
+        "y": 2890,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 9,
+      "static": false,
+      "orientationChanges": [],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 12,
+      "samples": 12,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 2,
+      "estimateRevisions": 0,
+      "spawnUid": "40a61d13-c4ab-419c-8de3-fc710cbc1bf2",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 2461,
+          "revision": 240
+        }
+      ],
+      "regionId": 5933,
+      "chunk": {
+        "x": 184,
+        "y": 361
+      },
+      "chunkInRegion": {
+        "x": 0,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [],
+  "deletedUids": [],
+  "pools": [],
+  "objects": []
+}

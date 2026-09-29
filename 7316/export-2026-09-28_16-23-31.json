@@ -1,0 +1,2429 @@
+{
+  "version": 6,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 7316,
+  "exportedAt": "2026-09-28T20:23:31.848Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 12807,
+      "visibleId": 12807,
+      "name": "Minimus",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1805,
+        "y": 9508,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16374,
+          "timestamp": 1790451427001,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 126,
+      "samples": 126,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 125,
+      "estimateRevisions": 0,
+      "spawnUid": "e666009b-5de1-403d-8056-02f12d4baca7",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7712,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1188
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12809,
+      "visibleId": 12809,
+      "name": "Gloria",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1803,
+        "y": 9512,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16374,
+          "timestamp": 1790451427001,
+          "to": 1024
+        },
+        {
+          "tick": 16392,
+          "timestamp": 1790451437798,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 16404,
+          "timestamp": 1790451444991,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 16417,
+          "timestamp": 1790451452793,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 16430,
+          "timestamp": 1790451460595,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 16440,
+          "timestamp": 1790451466582,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 16449,
+          "timestamp": 1790451472007,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 16467,
+          "timestamp": 1790451482802,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 16613,
+          "timestamp": 1790451570400,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 16866,
+          "timestamp": 1790451722220,
+          "from": 1024,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 128,
+      "samples": 128,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 85,
+      "estimateRevisions": 0,
+      "spawnUid": "471ed84e-0ef0-4a74-9017-177b825d1d34",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7709,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1189
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12835,
+      "visibleId": 12835,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1813,
+        "y": 9519,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 16378,
+          "timestamp": 1790451429380,
+          "to": 1024
+        },
+        {
+          "tick": 16388,
+          "timestamp": 1790451435381,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 16406,
+          "timestamp": 1790451446197,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 16417,
+          "timestamp": 1790451452793,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 16441,
+          "timestamp": 1790451467199,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 16460,
+          "timestamp": 1790451478594,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 16475,
+          "timestamp": 1790451487603,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 16602,
+          "timestamp": 1790451563795,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 16607,
+          "timestamp": 1790451566824,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 16872,
+          "timestamp": 1790451725816,
+          "from": 256,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 132,
+      "samples": 132,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 69,
+      "estimateRevisions": 1,
+      "spawnUid": "447a0cd1-0f7c-4039-8a32-4cc7c344616c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7722,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 226,
+        "y": 1189
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12834,
+      "visibleId": 12834,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1804,
+        "y": 9493,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 3,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 16618,
+          "timestamp": 1790451573413,
+          "to": 1536
+        },
+        {
+          "tick": 16650,
+          "timestamp": 1790451592613,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 16655,
+          "timestamp": 1790451595617,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 16670,
+          "timestamp": 1790451604621,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 16677,
+          "timestamp": 1790451608817,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 16702,
+          "timestamp": 1790451623820,
+          "from": 512,
+          "to": 768
+        },
+        {
+          "tick": 16713,
+          "timestamp": 1790451630418,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 16869,
+          "timestamp": 1790451724025,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 134,
+      "samples": 134,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 78,
+      "estimateRevisions": 1,
+      "spawnUid": "e4cea7df-237d-4ea7-9225-05fb068a4422",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7708,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1186
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12836,
+      "visibleId": 12836,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1813,
+        "y": 9495,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 16617,
+          "timestamp": 1790451572814,
+          "to": 1280
+        },
+        {
+          "tick": 16626,
+          "timestamp": 1790451578191,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 16634,
+          "timestamp": 1790451583018,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 16648,
+          "timestamp": 1790451591411,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 16656,
+          "timestamp": 1790451596221,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 16664,
+          "timestamp": 1790451601022,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 16674,
+          "timestamp": 1790451607014,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 16708,
+          "timestamp": 1790451627414,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 16730,
+          "timestamp": 1790451640629,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 16861,
+          "timestamp": 1790451719222,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 16867,
+          "timestamp": 1790451722816,
+          "from": 768,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 151,
+      "samples": 151,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 83,
+      "estimateRevisions": 1,
+      "spawnUid": "03936cdc-1742-45f2-99f9-fd76973a8054",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7721,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 226,
+        "y": 1186
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12841,
+      "visibleId": 12841,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1802,
+        "y": 9523,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 16378,
+          "timestamp": 1790451429380,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 111,
+      "samples": 111,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 110,
+      "estimateRevisions": 0,
+      "spawnUid": "6534ca5c-7e96-49de-a1fc-ca53b4f196ea",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7706,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12838,
+      "visibleId": 12838,
+      "name": "Gladiator",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1805,
+        "y": 9523,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16378,
+          "timestamp": 1790451429380,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 115,
+      "samples": 115,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 114,
+      "estimateRevisions": 0,
+      "spawnUid": "29cdc7ef-b217-46e1-838a-92b8a7a19196",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7713,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12839,
+      "visibleId": 12839,
+      "name": "Gladiator",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1807,
+        "y": 9523,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16378,
+          "timestamp": 1790451429380,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 117,
+      "samples": 117,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 116,
+      "estimateRevisions": 0,
+      "spawnUid": "0e14804d-4e39-4259-a4f5-022167bc9f6e",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7718,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12839,
+      "visibleId": 12839,
+      "name": "Gladiator",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1805,
+        "y": 9525,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16379,
+          "timestamp": 1790451429983,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 113,
+      "samples": 113,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 112,
+      "estimateRevisions": 0,
+      "spawnUid": "5aefd038-1662-48eb-92b1-05411c656ed9",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7714,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12838,
+      "visibleId": 12838,
+      "name": "Gladiator",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1807,
+        "y": 9525,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16379,
+          "timestamp": 1790451429983,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 115,
+      "samples": 115,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 114,
+      "estimateRevisions": 0,
+      "spawnUid": "422b8ac2-0b35-4060-83e0-f8c1ca0e7188",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7719,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12841,
+      "visibleId": 12841,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1802,
+        "y": 9527,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 16381,
+          "timestamp": 1790451431185,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 106,
+      "samples": 106,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 105,
+      "estimateRevisions": 0,
+      "spawnUid": "b3979db8-4556-4d4c-a755-d891d3077f2f",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7707,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12840,
+      "visibleId": 12840,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1808,
+        "y": 9529,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 16382,
+          "timestamp": 1790451431791,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 110,
+      "samples": 110,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 109,
+      "estimateRevisions": 0,
+      "spawnUid": "2cc99e27-213f-4ccb-85d2-a5bc6f4b7a6c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7720,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 226,
+        "y": 1191
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12840,
+      "visibleId": 12840,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1806,
+        "y": 9529,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 16382,
+          "timestamp": 1790451431791,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 108,
+      "samples": 108,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 107,
+      "estimateRevisions": 0,
+      "spawnUid": "44c56ce4-29d5-4f45-abfe-e75b5c17736d",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7717,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1191
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12843,
+      "visibleId": 12843,
+      "name": "Duelist",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1827,
+        "y": 9527,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 4,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16466,
+          "timestamp": 1790451482205,
+          "to": 0
+        },
+        {
+          "tick": 16474,
+          "timestamp": 1790451487004,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 16493,
+          "timestamp": 1790451498404,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 16503,
+          "timestamp": 1790451504398,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 16573,
+          "timestamp": 1790451546394,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 16591,
+          "timestamp": 1790451557233,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 16599,
+          "timestamp": 1790451562062,
+          "from": 256,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 69,
+      "samples": 69,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 37,
+      "estimateRevisions": 2,
+      "spawnUid": "87dab34a-4317-42f9-8264-426674d49c37",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7725,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 228,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12835,
+      "visibleId": 12835,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1840,
+        "y": 9523,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 3,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 16479,
+          "timestamp": 1790451490003,
+          "to": 1024
+        },
+        {
+          "tick": 16499,
+          "timestamp": 1790451502003,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 16503,
+          "timestamp": 1790451504398,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 16514,
+          "timestamp": 1790451511000,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 16525,
+          "timestamp": 1790451517574,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 16553,
+          "timestamp": 1790451534406,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 16560,
+          "timestamp": 1790451538600,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 16569,
+          "timestamp": 1790451544015,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 16580,
+          "timestamp": 1790451550615,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 16588,
+          "timestamp": 1790451555435,
+          "from": 1280,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 122,
+      "samples": 122,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 102,
+      "estimateRevisions": 0,
+      "spawnUid": "18c88a49-4b74-4cef-822b-4f6eda85c48f",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7728,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12842,
+      "visibleId": 12842,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1843,
+        "y": 9524,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 16481,
+          "timestamp": 1790451491185,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 118,
+      "samples": 118,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 117,
+      "estimateRevisions": 0,
+      "spawnUid": "fd2d8483-6ab2-4ce3-9034-476eab7ec769",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7735,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12841,
+      "visibleId": 12841,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1843,
+        "y": 9527,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16481,
+          "timestamp": 1790451491185,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 118,
+      "samples": 118,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 117,
+      "estimateRevisions": 0,
+      "spawnUid": "b63ea2a8-3bcc-4bc9-8138-a40b6983910c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7736,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12840,
+      "visibleId": 12840,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1844,
+        "y": 9524,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 16484,
+          "timestamp": 1790451492996,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 114,
+      "samples": 114,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 113,
+      "estimateRevisions": 0,
+      "spawnUid": "a1b149ee-0fdd-4e9c-833d-5ee934823e32",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7737,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1190
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13113,
+      "visibleId": 13113,
+      "name": "Guard",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1846,
+        "y": 9516,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 16485,
+          "timestamp": 1790451493594,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 110,
+      "samples": 110,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 109,
+      "estimateRevisions": 0,
+      "spawnUid": "cd6068c8-053c-4c86-ad11-fa64439439e3",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7739,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1189
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13112,
+      "visibleId": 13112,
+      "name": "Guard",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1847,
+        "y": 9516,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 16485,
+          "timestamp": 1790451493594,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 109,
+      "samples": 109,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 108,
+      "estimateRevisions": 0,
+      "spawnUid": "dc16c1ef-89d0-45d7-a20e-4df57a37cc2c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7743,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1189
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13110,
+      "visibleId": 13110,
+      "name": "Guard",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1848,
+        "y": 9516,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 16486,
+          "timestamp": 1790451494199,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 106,
+      "samples": 106,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 105,
+      "estimateRevisions": 0,
+      "spawnUid": "83fc5b95-dcb0-4bbf-afb7-9de1d0a8caf8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7745,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 231,
+        "y": 1189
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12840,
+      "visibleId": 12840,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1805,
+        "y": 9489,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16620,
+          "timestamp": 1790451574599,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 126,
+      "samples": 126,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 125,
+      "estimateRevisions": 0,
+      "spawnUid": "e5073b60-14d3-4de1-a9a5-6644b99a34f2",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7711,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1186
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12842,
+      "visibleId": 12842,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1806,
+        "y": 9489,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16620,
+          "timestamp": 1790451574599,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 127,
+      "samples": 127,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 126,
+      "estimateRevisions": 0,
+      "spawnUid": "b1a37cb5-5a6d-40c4-b157-6a2bf53c76d9",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7716,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1186
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12841,
+      "visibleId": 12841,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1806,
+        "y": 9486,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 16621,
+          "timestamp": 1790451575207,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 125,
+      "samples": 125,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 124,
+      "estimateRevisions": 0,
+      "spawnUid": "ad1e06eb-8f88-4361-a438-5e42630d59f8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7715,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 225,
+        "y": 1185
+      },
+      "chunkInRegion": {
+        "x": 1,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13806,
+      "visibleId": 13806,
+      "name": "Lelia",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1820,
+        "y": 9484,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 16627,
+          "timestamp": 1790451578815,
+          "to": 1792
+        },
+        {
+          "tick": 16641,
+          "timestamp": 1790451587221,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 16685,
+          "timestamp": 1790451613594,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 16702,
+          "timestamp": 1790451623820,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 16715,
+          "timestamp": 1790451631606,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 16720,
+          "timestamp": 1790451634631,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 16736,
+          "timestamp": 1790451644221,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 16745,
+          "timestamp": 1790451649621,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 16749,
+          "timestamp": 1790451652028,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 16766,
+          "timestamp": 1790451662210,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 16774,
+          "timestamp": 1790451667005,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 16782,
+          "timestamp": 1790451671818,
+          "from": 256,
+          "to": 1280
+        },
+        {
+          "tick": 16789,
+          "timestamp": 1790451676021,
+          "from": 1280,
+          "to": 768
+        },
+        {
+          "tick": 16797,
+          "timestamp": 1790451680831,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 16810,
+          "timestamp": 1790451688627,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 16822,
+          "timestamp": 1790451695818,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 16833,
+          "timestamp": 1790451702421,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 16837,
+          "timestamp": 1790451704816,
+          "from": 1024,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 238,
+      "samples": 238,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 180,
+      "estimateRevisions": 0,
+      "spawnUid": "18dd5724-0487-4a80-bc4a-770691799d51",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7723,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 227,
+        "y": 1185
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13420,
+      "visibleId": 13420,
+      "name": "Ueman, Teoki of Ralos",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1825,
+        "y": 9488,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 16725,
+          "timestamp": 1790451637619,
+          "to": 1536
+        },
+        {
+          "tick": 16744,
+          "timestamp": 1790451649017,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 16749,
+          "timestamp": 1790451652028,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 16765,
+          "timestamp": 1790451661624,
+          "from": 768,
+          "to": 1024
+        },
+        {
+          "tick": 16769,
+          "timestamp": 1790451663998,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 16775,
+          "timestamp": 1790451667592,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 16785,
+          "timestamp": 1790451673618,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 16795,
+          "timestamp": 1790451679614,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 16836,
+          "timestamp": 1790451704222,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 16845,
+          "timestamp": 1790451709593,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 16857,
+          "timestamp": 1790451716819,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 137,
+      "samples": 137,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 67,
+      "estimateRevisions": 1,
+      "spawnUid": "dd4aff52-f145-47a5-86b6-a670eac5f127",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7724,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 228,
+        "y": 1186
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13421,
+      "visibleId": 13421,
+      "name": "Seia, Teoki of Ranul",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1828,
+        "y": 9484,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 16728,
+          "timestamp": 1790451639414,
+          "to": 1792
+        },
+        {
+          "tick": 16738,
+          "timestamp": 1790451645423,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 16745,
+          "timestamp": 1790451649621,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 16765,
+          "timestamp": 1790451661624,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 16777,
+          "timestamp": 1790451668817,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 16792,
+          "timestamp": 1790451677818,
+          "from": 1792,
+          "to": 0
+        },
+        {
+          "tick": 16826,
+          "timestamp": 1790451698230,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 16838,
+          "timestamp": 1790451705428,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 133,
+      "samples": 133,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 14,
+      "estimateRevisions": 2,
+      "spawnUid": "ed79de71-2b7f-4709-bc5c-43aa6c5128f3",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7726,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 228,
+        "y": 1185
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12836,
+      "visibleId": 12836,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1839,
+        "y": 9490,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 2,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16731,
+          "timestamp": 1790451641227,
+          "to": 1024
+        },
+        {
+          "tick": 16748,
+          "timestamp": 1790451651429,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 16757,
+          "timestamp": 1790451656814,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 16770,
+          "timestamp": 1790451664611,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 16790,
+          "timestamp": 1790451676607,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 16805,
+          "timestamp": 1790451685620,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 16819,
+          "timestamp": 1790451694027,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 16841,
+          "timestamp": 1790451707213,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 123,
+      "samples": 123,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 69,
+      "estimateRevisions": 1,
+      "spawnUid": "14b3365a-6086-4086-9824-abd7bca623dc",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7727,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 229,
+        "y": 1186
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12840,
+      "visibleId": 12840,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1841,
+        "y": 9484,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16733,
+          "timestamp": 1790451642417,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 120,
+      "samples": 120,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 119,
+      "estimateRevisions": 0,
+      "spawnUid": "10596748-6a3b-4406-af82-084ae51ddef0",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7729,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1185
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12839,
+      "visibleId": 12839,
+      "name": "Gladiator",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1841,
+        "y": 9487,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16733,
+          "timestamp": 1790451642417,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 120,
+      "samples": 120,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 119,
+      "estimateRevisions": 0,
+      "spawnUid": "03e00c17-d854-4ce9-8069-97439ce34ef2",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7730,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1185
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12837,
+      "visibleId": 12837,
+      "name": "Gladiator",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1841,
+        "y": 9489,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16733,
+          "timestamp": 1790451642417,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 120,
+      "samples": 120,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 119,
+      "estimateRevisions": 0,
+      "spawnUid": "e08adfc0-564e-40b3-a3ed-2977d61cad5a",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7731,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1186
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12841,
+      "visibleId": 12841,
+      "name": "Gladiator",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1843,
+        "y": 9484,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16738,
+          "timestamp": 1790451645423,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 114,
+      "samples": 114,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 113,
+      "estimateRevisions": 0,
+      "spawnUid": "d282f355-683a-4bb3-8600-d7ac93ff14d8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7732,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1185
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12838,
+      "visibleId": 12838,
+      "name": "Gladiator",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1843,
+        "y": 9487,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16738,
+          "timestamp": 1790451645423,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 114,
+      "samples": 114,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 113,
+      "estimateRevisions": 0,
+      "spawnUid": "9d13a1bf-8590-4038-ba2f-d5c480959ffb",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7733,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1185
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12839,
+      "visibleId": 12839,
+      "name": "Gladiator",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1843,
+        "y": 9489,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 16738,
+          "timestamp": 1790451645423,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 114,
+      "samples": 114,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 113,
+      "estimateRevisions": 0,
+      "spawnUid": "ac98f583-c2bd-4561-9050-9d53086cddab",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 694,
+          "index": 7734,
+          "revision": 240
+        }
+      ],
+      "regionId": 7316,
+      "chunk": {
+        "x": 230,
+        "y": 1186
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [],
+  "deletedUids": [],
+  "pools": [],
+  "objects": []
+}
