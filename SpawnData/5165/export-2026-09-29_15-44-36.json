@@ -1,0 +1,6790 @@
+{
+  "version": 6,
+  "surveyId": "8eae6634-0f4a-40f0-8b40-9f74ea0ac128",
+  "regionId": 5165,
+  "exportedAt": "2026-09-29T19:44:36.024Z",
+  "gameRevision": 240,
+  "npcs": [
+    {
+      "npcId": 10541,
+      "visibleId": 10541,
+      "name": "Bird",
+      "size": 1,
+      "combatLevel": 5,
+      "spawn": {
+        "x": 1335,
+        "y": 2941,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 7552,
+          "timestamp": 1790600364965,
+          "to": 1536
+        },
+        {
+          "tick": 7642,
+          "timestamp": 1790600434155,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 7650,
+          "timestamp": 1790600438952,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 7669,
+          "timestamp": 1790600450355,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 10542,
+          "timestamp": 1790602204414,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 21002,
+          "timestamp": 1790620494372,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 21043,
+          "timestamp": 1790620518972,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 21060,
+          "timestamp": 1790620529156,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 21072,
+          "timestamp": 1790620536372,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 21079,
+          "timestamp": 1790620540544,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 21111,
+          "timestamp": 1790620559758,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 21129,
+          "timestamp": 1790620570550,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 21137,
+          "timestamp": 1790620575347,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 21146,
+          "timestamp": 1790620580751,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 21177,
+          "timestamp": 1790620599339,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 21201,
+          "timestamp": 1790620613725,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 21255,
+          "timestamp": 1790620646139,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 21266,
+          "timestamp": 1790620652699,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 21283,
+          "timestamp": 1790620662926,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 21314,
+          "timestamp": 1790620681514,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 21335,
+          "timestamp": 1790620694096,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 21344,
+          "timestamp": 1790620699512,
+          "from": 768,
+          "to": 256
+        },
+        {
+          "tick": 21360,
+          "timestamp": 1790620709114,
+          "from": 256,
+          "to": 768
+        },
+        {
+          "tick": 21372,
+          "timestamp": 1790620716335,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 21384,
+          "timestamp": 1790620723538,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 21407,
+          "timestamp": 1790620737315,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 21418,
+          "timestamp": 1790620743918,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 21442,
+          "timestamp": 1790620758323,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 21454,
+          "timestamp": 1790620765516,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 21467,
+          "timestamp": 1790620773298,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 21478,
+          "timestamp": 1790620779917,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 21502,
+          "timestamp": 1790620794314,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 21512,
+          "timestamp": 1790620800314,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 21539,
+          "timestamp": 1790620816545,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 21547,
+          "timestamp": 1790620821317,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 21566,
+          "timestamp": 1790620832807,
+          "from": 256,
+          "to": 1280
+        },
+        {
+          "tick": 21577,
+          "timestamp": 1790620839349,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 21623,
+          "timestamp": 1790620866945,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 21631,
+          "timestamp": 1790620871737,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 21683,
+          "timestamp": 1790620902947,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 21693,
+          "timestamp": 1790620908957,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 21697,
+          "timestamp": 1790620911339,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 21728,
+          "timestamp": 1790620929915,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 21738,
+          "timestamp": 1790620935917,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 21752,
+          "timestamp": 1790620944338,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 21767,
+          "timestamp": 1790620953351,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 21776,
+          "timestamp": 1790620958738,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 21783,
+          "timestamp": 1790620962950,
+          "from": 512,
+          "to": 768
+        },
+        {
+          "tick": 21792,
+          "timestamp": 1790620968316,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 21819,
+          "timestamp": 1790620984550,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 21851,
+          "timestamp": 1790621003753,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 21867,
+          "timestamp": 1790621013316,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 21877,
+          "timestamp": 1790621019371,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 21890,
+          "timestamp": 1790621027131,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 21908,
+          "timestamp": 1790621037968,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 21927,
+          "timestamp": 1790621049336,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 21954,
+          "timestamp": 1790621065552,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 21961,
+          "timestamp": 1790621069755,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 21970,
+          "timestamp": 1790621075146,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 21980,
+          "timestamp": 1790621081171,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 21987,
+          "timestamp": 1790621085356,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 22011,
+          "timestamp": 1790621099748,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 22022,
+          "timestamp": 1790621106362,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 22031,
+          "timestamp": 1790621111744,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 22048,
+          "timestamp": 1790621121947,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 22089,
+          "timestamp": 1790621146555,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 22097,
+          "timestamp": 1790621151363,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 22106,
+          "timestamp": 1790621156778,
+          "from": 1792,
+          "to": 1280
+        },
+        {
+          "tick": 22114,
+          "timestamp": 1790621161572,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 22130,
+          "timestamp": 1790621171168,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 22149,
+          "timestamp": 1790621182575,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 22195,
+          "timestamp": 1790621210184,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 22199,
+          "timestamp": 1790621212583,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 22207,
+          "timestamp": 1790621217392,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 22218,
+          "timestamp": 1790621223987,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 22225,
+          "timestamp": 1790621228191,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 22238,
+          "timestamp": 1790621235975,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 22267,
+          "timestamp": 1790621253409,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 22273,
+          "timestamp": 1790621257009,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 22290,
+          "timestamp": 1790621267201,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 22304,
+          "timestamp": 1790621275597,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 22325,
+          "timestamp": 1790621288198,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 22356,
+          "timestamp": 1790621306813,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 22379,
+          "timestamp": 1790621320599,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 22417,
+          "timestamp": 1790621343437,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 22434,
+          "timestamp": 1790621353597,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 22450,
+          "timestamp": 1790621363227,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 22462,
+          "timestamp": 1790621370399,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 22499,
+          "timestamp": 1790621392651,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 22519,
+          "timestamp": 1790621404641,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 22525,
+          "timestamp": 1790621408241,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 22535,
+          "timestamp": 1790621414220,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 22560,
+          "timestamp": 1790621429250,
+          "from": 512,
+          "to": 768
+        },
+        {
+          "tick": 22579,
+          "timestamp": 1790621440636,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 22585,
+          "timestamp": 1790621444238,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 22605,
+          "timestamp": 1790621456252,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 22623,
+          "timestamp": 1790621467049,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 22652,
+          "timestamp": 1790621484436,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 22666,
+          "timestamp": 1790621492838,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 22678,
+          "timestamp": 1790621500035,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 22700,
+          "timestamp": 1790621513261,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 22737,
+          "timestamp": 1790621535435,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 22784,
+          "timestamp": 1790621563659,
+          "from": 1024,
+          "to": 768
+        },
+        {
+          "tick": 22793,
+          "timestamp": 1790621569073,
+          "from": 768,
+          "to": 256
+        },
+        {
+          "tick": 22822,
+          "timestamp": 1790621586436,
+          "from": 256,
+          "to": 0
+        },
+        {
+          "tick": 22830,
+          "timestamp": 1790621591275,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 22853,
+          "timestamp": 1790621605085,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 22861,
+          "timestamp": 1790621609891,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 22889,
+          "timestamp": 1790621626695,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 22927,
+          "timestamp": 1790621649488,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 22939,
+          "timestamp": 1790621656693,
+          "from": 1024,
+          "to": 768
+        },
+        {
+          "tick": 22948,
+          "timestamp": 1790621662090,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 22967,
+          "timestamp": 1790621673490,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 22973,
+          "timestamp": 1790621677083,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 22981,
+          "timestamp": 1790621681907,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 22988,
+          "timestamp": 1790621686085,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 23008,
+          "timestamp": 1790621698089,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 23016,
+          "timestamp": 1790621702896,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 23022,
+          "timestamp": 1790621706507,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 23045,
+          "timestamp": 1790621720304,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 23062,
+          "timestamp": 1790621730505,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 23070,
+          "timestamp": 1790621735306,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 23111,
+          "timestamp": 1790621759911,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 23126,
+          "timestamp": 1790621768911,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 23149,
+          "timestamp": 1790621782677,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 23160,
+          "timestamp": 1790621789322,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 23177,
+          "timestamp": 1790621799509,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 23188,
+          "timestamp": 1790621806125,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 23198,
+          "timestamp": 1790621812115,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 23225,
+          "timestamp": 1790621828331,
+          "from": 256,
+          "to": 0
+        },
+        {
+          "tick": 23281,
+          "timestamp": 1790621861912,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 23308,
+          "timestamp": 1790621878126,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 23349,
+          "timestamp": 1790621902728,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 23369,
+          "timestamp": 1790621914722,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 23383,
+          "timestamp": 1790621923152,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 23408,
+          "timestamp": 1790621938127,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 23437,
+          "timestamp": 1790621955546,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 23455,
+          "timestamp": 1790621966337,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 23478,
+          "timestamp": 1790621980135,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 23486,
+          "timestamp": 1790621984943,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 23501,
+          "timestamp": 1790621993916,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 23542,
+          "timestamp": 1790622018540,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 23576,
+          "timestamp": 1790622038935,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 23585,
+          "timestamp": 1790622044356,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 23612,
+          "timestamp": 1790622060552,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 23626,
+          "timestamp": 1790622068946,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 23640,
+          "timestamp": 1790622077376,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 23651,
+          "timestamp": 1790622083934,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 23659,
+          "timestamp": 1790622088774,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 23665,
+          "timestamp": 1790622092346,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 23680,
+          "timestamp": 1790622101353,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 23713,
+          "timestamp": 1790622121168,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 23731,
+          "timestamp": 1790622131938,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 23741,
+          "timestamp": 1790622137956,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 23795,
+          "timestamp": 1790622170339,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 23813,
+          "timestamp": 1790622181194,
+          "from": 1792,
+          "to": 768
+        },
+        {
+          "tick": 23822,
+          "timestamp": 1790622186592,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 23835,
+          "timestamp": 1790622194387,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 23865,
+          "timestamp": 1790622212381,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 23897,
+          "timestamp": 1790622231577,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 23912,
+          "timestamp": 1790622240596,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 23956,
+          "timestamp": 1790622266976,
+          "from": 256,
+          "to": 0
+        },
+        {
+          "tick": 23966,
+          "timestamp": 1790622272989,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 23976,
+          "timestamp": 1790622278988,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 23991,
+          "timestamp": 1790622287992,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24017,
+          "timestamp": 1790623220557,
+          "from": 0,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 3156,
+      "samples": 3156,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 2301,
+      "estimateRevisions": 1,
+      "spawnUid": "7bdaa1ca-afa4-4a56-82c1-d71766d6c01c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 339,
+          "index": 810,
+          "revision": 240
+        },
+        {
+          "world": 443,
+          "index": 810,
+          "revision": 240
+        },
+        {
+          "world": 374,
+          "index": 810,
+          "revision": 240
+        },
+        {
+          "world": 378,
+          "index": 810,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 810,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 166,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5556,
+      "visibleId": 5556,
+      "name": "Ruby harvest",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1341,
+        "y": 2938,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 7550,
+          "timestamp": 1790600363776,
+          "to": 768
+        },
+        {
+          "tick": 7611,
+          "timestamp": 1790600415538,
+          "from": 768,
+          "to": 1280
+        },
+        {
+          "tick": 7649,
+          "timestamp": 1790600438356,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 7655,
+          "timestamp": 1790600441955,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 10538,
+          "timestamp": 1790602202015,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24023,
+          "timestamp": 1790623224135,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25557,
+          "timestamp": 1790624145356,
+          "from": 1536,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 129,
+      "samples": 129,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 14,
+      "estimateRevisions": 0,
+      "spawnUid": "eb5ed146-d556-4880-b03c-e0acfd9c628e",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 339,
+          "index": 819,
+          "revision": 240
+        },
+        {
+          "world": 374,
+          "index": 819,
+          "revision": 240
+        },
+        {
+          "world": 378,
+          "index": 819,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 819,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5556,
+      "visibleId": 5556,
+      "name": "Ruby harvest",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1339,
+        "y": 2940,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 12,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 7551,
+          "timestamp": 1790600364364,
+          "to": 1280
+        },
+        {
+          "tick": 7607,
+          "timestamp": 1790600413142,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 7622,
+          "timestamp": 1790600422148,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 7633,
+          "timestamp": 1790600428748,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 10188,
+          "timestamp": 1790601991972,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 10209,
+          "timestamp": 1790602004584,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 10538,
+          "timestamp": 1790602202015,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 10551,
+          "timestamp": 1790602209796,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24024,
+          "timestamp": 1790623224746,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 25557,
+          "timestamp": 1790624145356,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 25579,
+          "timestamp": 1790624158544,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 2384,
+          "timestamp": 1790683491200,
+          "from": 1792,
+          "to": 1024
+        },
+        {
+          "tick": 2403,
+          "timestamp": 1790683502608,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 2429,
+          "timestamp": 1790683518214,
+          "from": 1280,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 222,
+      "samples": 222,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 176,
+      "estimateRevisions": 0,
+      "spawnUid": "0b91358e-f590-44b6-8615-22872be73449",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 339,
+          "index": 1574,
+          "revision": 240
+        },
+        {
+          "world": 378,
+          "index": 1574,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 1574,
+          "revision": 240
+        },
+        {
+          "world": 538,
+          "index": 1574,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5556,
+      "visibleId": 5556,
+      "name": "Ruby harvest",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1338,
+        "y": 2940,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 7603,
+          "timestamp": 1790600410738,
+          "to": 1536
+        },
+        {
+          "tick": 7611,
+          "timestamp": 1790600415538,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 7624,
+          "timestamp": 1790600423347,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 7635,
+          "timestamp": 1790600429957,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 10543,
+          "timestamp": 1790602204997,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 24016,
+          "timestamp": 1790623219958,
+          "from": 1280,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 122,
+      "samples": 122,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 14,
+      "estimateRevisions": 5,
+      "spawnUid": "a4a87bc2-3c8f-447e-9d82-df09ee6f4b08",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 339,
+          "index": 1571,
+          "revision": 240
+        },
+        {
+          "world": 378,
+          "index": 1571,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 1571,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 15156,
+      "visibleId": 15156,
+      "name": "Marina Kebbit-Monkfish",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1314,
+        "y": 2931,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 0,
+      "static": true,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 7597,
+          "timestamp": 1790600407155,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 3284,
+      "samples": 3284,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 3283,
+      "estimateRevisions": 0,
+      "spawnUid": "c4a16d25-2e8a-4371-84f5-5573401e2b20",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 378,
+          "index": 32980,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 32980,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 164,
+        "y": 366
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5556,
+      "visibleId": 5556,
+      "name": "Ruby harvest",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1334,
+        "y": 2937,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 7654,
+          "timestamp": 1790600441355,
+          "to": 1024
+        },
+        {
+          "tick": 7696,
+          "timestamp": 1790600466582,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 10547,
+          "timestamp": 1790602207396,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 21010,
+          "timestamp": 1790620499171,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 21015,
+          "timestamp": 1790620502153,
+          "from": 1536,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 144,
+      "samples": 144,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 17,
+      "estimateRevisions": 3,
+      "spawnUid": "af82ebb4-7580-456b-b848-91b918da7bd8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 378,
+          "index": 814,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 814,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 166,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5556,
+      "visibleId": 5556,
+      "name": "Ruby harvest",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1334,
+        "y": 2935,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 12,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 7609,
+          "timestamp": 1790600414349,
+          "to": 1536
+        },
+        {
+          "tick": 7632,
+          "timestamp": 1790600428178,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 7651,
+          "timestamp": 1790600439552,
+          "from": 1280,
+          "to": 256
+        },
+        {
+          "tick": 7663,
+          "timestamp": 1790600446760,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 7675,
+          "timestamp": 1790600453962,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 10545,
+          "timestamp": 1790602206202,
+          "from": 0,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 117,
+      "samples": 117,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 10,
+      "estimateRevisions": 3,
+      "spawnUid": "602033e3-38bd-4f6d-8586-4a3a113a22f8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 378,
+          "index": 818,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 818,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 166,
+        "y": 366
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5556,
+      "visibleId": 5556,
+      "name": "Ruby harvest",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1338,
+        "y": 2941,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 11,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 7618,
+          "timestamp": 1790600419765,
+          "to": 1280
+        },
+        {
+          "tick": 7668,
+          "timestamp": 1790600449760,
+          "from": 1280,
+          "to": 768
+        },
+        {
+          "tick": 10536,
+          "timestamp": 1790602200798,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 10546,
+          "timestamp": 1790602206797,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 21015,
+          "timestamp": 1790620502153,
+          "from": 1536,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 122,
+      "samples": 122,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 44,
+      "estimateRevisions": 2,
+      "spawnUid": "797b16c7-5937-4f64-b3e5-20bef4cdfd61",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 378,
+          "index": 1573,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 1573,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5556,
+      "visibleId": 5556,
+      "name": "Ruby harvest",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1336,
+        "y": 2931,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 11,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 7606,
+          "timestamp": 1790600412553,
+          "to": 512
+        },
+        {
+          "tick": 7645,
+          "timestamp": 1790600435952,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 10534,
+          "timestamp": 1790602199598,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 10546,
+          "timestamp": 1790602206797,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 21014,
+          "timestamp": 1790620501721,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 24022,
+          "timestamp": 1790623223533,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25566,
+          "timestamp": 1790624150727,
+          "from": 0,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 149,
+      "samples": 149,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 68,
+      "estimateRevisions": 10,
+      "spawnUid": "11f97c71-1751-47af-af1b-8ceeb51ccd21",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 378,
+          "index": 1572,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 1572,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 366
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 6
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5556,
+      "visibleId": 5556,
+      "name": "Ruby harvest",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1332,
+        "y": 2937,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 11,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 7607,
+          "timestamp": 1790600413142,
+          "to": 0
+        },
+        {
+          "tick": 7628,
+          "timestamp": 1790600425750,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 10556,
+          "timestamp": 1790602212800,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 21015,
+          "timestamp": 1790620502153,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24021,
+          "timestamp": 1790623222970,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 132,
+      "samples": 132,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 2,
+      "estimateRevisions": 1,
+      "spawnUid": "ff9a17b4-44eb-4ab2-8ca1-553d09da90b2",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 378,
+          "index": 817,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 817,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 166,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 5556,
+      "visibleId": 5556,
+      "name": "Ruby harvest",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1332,
+        "y": 2925,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 14,
+      "static": false,
+      "orientation": 0,
+      "facing": "SOUTH",
+      "orientationChanges": [
+        {
+          "tick": 7615,
+          "timestamp": 1790600417949,
+          "to": 512
+        },
+        {
+          "tick": 7635,
+          "timestamp": 1790600429957,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 7652,
+          "timestamp": 1790600440150,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 10531,
+          "timestamp": 1790602197815,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 21009,
+          "timestamp": 1790620498548,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24027,
+          "timestamp": 1790623226544,
+          "from": 512,
+          "to": 0
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 132,
+      "samples": 132,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 35,
+      "estimateRevisions": 13,
+      "spawnUid": "257a6973-2a6a-4556-927a-b06d3275abe8",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 378,
+          "index": 815,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 815,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 166,
+        "y": 365
+      },
+      "chunkInRegion": {
+        "x": 6,
+        "y": 5
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 10541,
+      "visibleId": 10541,
+      "name": "Bird",
+      "size": 1,
+      "combatLevel": 5,
+      "spawn": {
+        "x": 1337,
+        "y": 2912,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 5,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 10482,
+          "timestamp": 1790602168386,
+          "to": 1024
+        },
+        {
+          "tick": 10504,
+          "timestamp": 1790602181597,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 10512,
+          "timestamp": 1790602186398,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 10524,
+          "timestamp": 1790602193586,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 10534,
+          "timestamp": 1790602199598,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 24027,
+          "timestamp": 1790623226544,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24043,
+          "timestamp": 1790623236172,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24048,
+          "timestamp": 1790623239159,
+          "from": 0,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 109,
+      "samples": 109,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 79,
+      "estimateRevisions": 0,
+      "spawnUid": "3458d588-710e-4d9d-98f3-cc49c7c93592",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 378,
+          "index": 813,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 813,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 364
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 4
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 281,
+      "visibleId": 281,
+      "name": "Gull",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1311,
+        "y": 2943,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 1792,
+      "facing": "SOUTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 7676,
+          "timestamp": 1790600454555,
+          "to": 0
+        },
+        {
+          "tick": 7698,
+          "timestamp": 1790600467764,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 7717,
+          "timestamp": 1790600479158,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 7785,
+          "timestamp": 1790600519976,
+          "from": 1792,
+          "to": 256
+        },
+        {
+          "tick": 21020,
+          "timestamp": 1790620505155,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 21083,
+          "timestamp": 1790620542951,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 21101,
+          "timestamp": 1790620553750,
+          "from": 0,
+          "to": 1792
+        },
+        {
+          "tick": 21107,
+          "timestamp": 1790620557374,
+          "from": 1792,
+          "to": 1024
+        },
+        {
+          "tick": 21151,
+          "timestamp": 1790620583752,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 21161,
+          "timestamp": 1790620589736,
+          "from": 512,
+          "to": 768
+        },
+        {
+          "tick": 21171,
+          "timestamp": 1790620595719,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 21192,
+          "timestamp": 1790620608324,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 21198,
+          "timestamp": 1790620611931,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 21214,
+          "timestamp": 1790620621526,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 21222,
+          "timestamp": 1790620626335,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 21244,
+          "timestamp": 1790620639516,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 21285,
+          "timestamp": 1790620664133,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 21315,
+          "timestamp": 1790620682126,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 21327,
+          "timestamp": 1790620689334,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 21479,
+          "timestamp": 1790620780540,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 21496,
+          "timestamp": 1790620790748,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 21508,
+          "timestamp": 1790620797928,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 21559,
+          "timestamp": 1790620828531,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 21650,
+          "timestamp": 1790620883148,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 21689,
+          "timestamp": 1790620906541,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 21722,
+          "timestamp": 1790620926338,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 21739,
+          "timestamp": 1790620936555,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 21799,
+          "timestamp": 1790620972536,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 21835,
+          "timestamp": 1790620994138,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 21873,
+          "timestamp": 1790621016936,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 21882,
+          "timestamp": 1790621022353,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 21889,
+          "timestamp": 1790621026551,
+          "from": 768,
+          "to": 1792
+        },
+        {
+          "tick": 21954,
+          "timestamp": 1790621065552,
+          "from": 1792,
+          "to": 0
+        },
+        {
+          "tick": 21972,
+          "timestamp": 1790621076373,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 22026,
+          "timestamp": 1790621108767,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 22043,
+          "timestamp": 1790621118954,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 22092,
+          "timestamp": 1790621148361,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 22127,
+          "timestamp": 1790621169375,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 22133,
+          "timestamp": 1790621173007,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 22163,
+          "timestamp": 1790621190990,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 22176,
+          "timestamp": 1790621198785,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 22207,
+          "timestamp": 1790621217392,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 22221,
+          "timestamp": 1790621225796,
+          "from": 1280,
+          "to": 768
+        },
+        {
+          "tick": 22237,
+          "timestamp": 1790621235398,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 22261,
+          "timestamp": 1790621249790,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 22272,
+          "timestamp": 1790621256377,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 22293,
+          "timestamp": 1790621268978,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 22367,
+          "timestamp": 1790621313412,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 22407,
+          "timestamp": 1790621337416,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 22481,
+          "timestamp": 1790621381843,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 22499,
+          "timestamp": 1790621392651,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 22506,
+          "timestamp": 1790621396817,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 22576,
+          "timestamp": 1790621438866,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 22588,
+          "timestamp": 1790621446068,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 22672,
+          "timestamp": 1790621496472,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 22682,
+          "timestamp": 1790621502437,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 22707,
+          "timestamp": 1790621517474,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 22717,
+          "timestamp": 1790621523475,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 22723,
+          "timestamp": 1790621527060,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 22753,
+          "timestamp": 1790621545038,
+          "from": 1792,
+          "to": 1024
+        },
+        {
+          "tick": 22780,
+          "timestamp": 1790621561238,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 22796,
+          "timestamp": 1790621570855,
+          "from": 1792,
+          "to": 0
+        },
+        {
+          "tick": 22804,
+          "timestamp": 1790621575674,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 22823,
+          "timestamp": 1790621587057,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 22844,
+          "timestamp": 1790621599674,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 22892,
+          "timestamp": 1790621628484,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 22898,
+          "timestamp": 1790621632088,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 22926,
+          "timestamp": 1790621648879,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 22962,
+          "timestamp": 1790621670508,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 23002,
+          "timestamp": 1790621694502,
+          "from": 0,
+          "to": 1280
+        },
+        {
+          "tick": 23043,
+          "timestamp": 1790621719105,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 23092,
+          "timestamp": 1790621748494,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 23098,
+          "timestamp": 1790621752108,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 23119,
+          "timestamp": 1790621764707,
+          "from": 1792,
+          "to": 0
+        },
+        {
+          "tick": 23176,
+          "timestamp": 1790621798929,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 23188,
+          "timestamp": 1790621806125,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 23210,
+          "timestamp": 1790621819322,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 23260,
+          "timestamp": 1790621849313,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 23301,
+          "timestamp": 1790621873917,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 23345,
+          "timestamp": 1790621900322,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 23353,
+          "timestamp": 1790621905143,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 23381,
+          "timestamp": 1790621921926,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 23389,
+          "timestamp": 1790621926733,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 23428,
+          "timestamp": 1790621950119,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 23456,
+          "timestamp": 1790621966928,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 23465,
+          "timestamp": 1790621972355,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 23503,
+          "timestamp": 1790621995145,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 23515,
+          "timestamp": 1790622002315,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 23547,
+          "timestamp": 1790622021534,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 23581,
+          "timestamp": 1790622041952,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 23613,
+          "timestamp": 1790622061118,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 23629,
+          "timestamp": 1790622070733,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 23662,
+          "timestamp": 1790622090543,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 23706,
+          "timestamp": 1790622116955,
+          "from": 512,
+          "to": 768
+        },
+        {
+          "tick": 23725,
+          "timestamp": 1790622128392,
+          "from": 768,
+          "to": 1024
+        },
+        {
+          "tick": 23804,
+          "timestamp": 1790622175794,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 23895,
+          "timestamp": 1790622230403,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 23899,
+          "timestamp": 1790622232795,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 23919,
+          "timestamp": 1790622244788,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 23933,
+          "timestamp": 1790622253189,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 23981,
+          "timestamp": 1790622281982,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 23999,
+          "timestamp": 1790622292777,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 24014,
+          "timestamp": 1790623218738,
+          "from": 1280,
+          "to": 1792
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 2461,
+      "samples": 2461,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 1674,
+      "estimateRevisions": 7,
+      "spawnUid": "493eaec8-7c48-4559-b5f4-1908d6acac9c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 378,
+          "index": 807,
+          "revision": 240
+        },
+        {
+          "world": 600,
+          "index": 807,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 163,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 7
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12961,
+      "visibleId": 12961,
+      "name": "Capybara",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1342,
+        "y": 2903,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 10482,
+          "timestamp": 1790602168386,
+          "to": 1536
+        },
+        {
+          "tick": 10489,
+          "timestamp": 1790602172612,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 10501,
+          "timestamp": 1790602179789,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 10514,
+          "timestamp": 1790602187590,
+          "from": 1024,
+          "to": 768
+        },
+        {
+          "tick": 10568,
+          "timestamp": 1790602220001,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 10575,
+          "timestamp": 1790602224193,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 10586,
+          "timestamp": 1790602230814,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 10595,
+          "timestamp": 1790602236195,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24040,
+          "timestamp": 1790623234362,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24048,
+          "timestamp": 1790623239159,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24084,
+          "timestamp": 1790623260758,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24109,
+          "timestamp": 1790623275753,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24120,
+          "timestamp": 1790623282361,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24155,
+          "timestamp": 1790623303363,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 24156,
+          "timestamp": 1790623303985,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 24173,
+          "timestamp": 1790623314179,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24200,
+          "timestamp": 1790623330369,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24211,
+          "timestamp": 1790623336962,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24271,
+          "timestamp": 1790623372969,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24302,
+          "timestamp": 1790623391587,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24328,
+          "timestamp": 1790623407184,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24342,
+          "timestamp": 1790623415591,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24371,
+          "timestamp": 1790623433004,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24407,
+          "timestamp": 1790623454612,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24492,
+          "timestamp": 1790623505615,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24515,
+          "timestamp": 1790623519421,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24555,
+          "timestamp": 1790623543420,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24572,
+          "timestamp": 1790623553623,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24588,
+          "timestamp": 1790623563253,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24595,
+          "timestamp": 1790623567436,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24616,
+          "timestamp": 1790623580043,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 24631,
+          "timestamp": 1790623589053,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 24645,
+          "timestamp": 1790623597459,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24656,
+          "timestamp": 1790623604048,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24679,
+          "timestamp": 1790623617856,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24706,
+          "timestamp": 1790623634048,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24738,
+          "timestamp": 1790623653276,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24779,
+          "timestamp": 1790623677861,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24836,
+          "timestamp": 1790623712072,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24845,
+          "timestamp": 1790623717460,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24862,
+          "timestamp": 1790623727655,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24889,
+          "timestamp": 1790623743874,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24906,
+          "timestamp": 1790623754086,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 24940,
+          "timestamp": 1790623774479,
+          "from": 1280,
+          "to": 1792
+        },
+        {
+          "tick": 24944,
+          "timestamp": 1790623776891,
+          "from": 1792,
+          "to": 768
+        },
+        {
+          "tick": 24959,
+          "timestamp": 1790623785882,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 24979,
+          "timestamp": 1790623797885,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24998,
+          "timestamp": 1790623809295,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25012,
+          "timestamp": 1790623817685,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 25013,
+          "timestamp": 1790623818297,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 25047,
+          "timestamp": 1790623838697,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 25056,
+          "timestamp": 1790623844085,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 25062,
+          "timestamp": 1790623847687,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 25094,
+          "timestamp": 1790623866920,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25111,
+          "timestamp": 1790623877087,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 25152,
+          "timestamp": 1790623901722,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 25169,
+          "timestamp": 1790623911904,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 25181,
+          "timestamp": 1790623919125,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 25191,
+          "timestamp": 1790623925121,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 25199,
+          "timestamp": 1790623929913,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 25224,
+          "timestamp": 1790623944961,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25245,
+          "timestamp": 1790623957527,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25258,
+          "timestamp": 1790623965328,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 25285,
+          "timestamp": 1790623981552,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 25319,
+          "timestamp": 1790624001931,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25349,
+          "timestamp": 1790624019930,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 25350,
+          "timestamp": 1790624020551,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 25372,
+          "timestamp": 1790624033735,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25408,
+          "timestamp": 1790624055325,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25427,
+          "timestamp": 1790624066725,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 25441,
+          "timestamp": 1790624075108,
+          "from": 1536,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1517,
+      "samples": 1517,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 201,
+      "estimateRevisions": 2,
+      "spawnUid": "60836a1e-3f4b-405e-a0a4-412343443b48",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 821,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 362
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 2
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12961,
+      "visibleId": 12961,
+      "name": "Capybara",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1342,
+        "y": 2904,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 10475,
+          "timestamp": 1790602164196,
+          "to": 0
+        },
+        {
+          "tick": 10495,
+          "timestamp": 1790602176192,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 10509,
+          "timestamp": 1790602184609,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 10526,
+          "timestamp": 1790602194794,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 10559,
+          "timestamp": 1790602214590,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 10585,
+          "timestamp": 1790602230193,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 24032,
+          "timestamp": 1790623229557,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24050,
+          "timestamp": 1790623240350,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24084,
+          "timestamp": 1790623260758,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 24117,
+          "timestamp": 1790623280560,
+          "from": 1280,
+          "to": 256
+        },
+        {
+          "tick": 24127,
+          "timestamp": 1790623286552,
+          "from": 256,
+          "to": 1280
+        },
+        {
+          "tick": 24157,
+          "timestamp": 1790623304575,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 24167,
+          "timestamp": 1790623310573,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24184,
+          "timestamp": 1790623320787,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24254,
+          "timestamp": 1790623362793,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24308,
+          "timestamp": 1790623395185,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24330,
+          "timestamp": 1790623408385,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24353,
+          "timestamp": 1790623422207,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24375,
+          "timestamp": 1790623435409,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24403,
+          "timestamp": 1790623452197,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24417,
+          "timestamp": 1790623460594,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 24433,
+          "timestamp": 1790623470218,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 24447,
+          "timestamp": 1790623478620,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24479,
+          "timestamp": 1790623497811,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24536,
+          "timestamp": 1790623532041,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24546,
+          "timestamp": 1790623538033,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24562,
+          "timestamp": 1790623547638,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 24577,
+          "timestamp": 1790623556650,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 24602,
+          "timestamp": 1790623571643,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24618,
+          "timestamp": 1790623581255,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24646,
+          "timestamp": 1790623598053,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 24660,
+          "timestamp": 1790623606456,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 24700,
+          "timestamp": 1790623630452,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24713,
+          "timestamp": 1790623638276,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24725,
+          "timestamp": 1790623645471,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24756,
+          "timestamp": 1790623664061,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24784,
+          "timestamp": 1790623680859,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24796,
+          "timestamp": 1790623688079,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24839,
+          "timestamp": 1790623713868,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24855,
+          "timestamp": 1790623723446,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24880,
+          "timestamp": 1790623738473,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24923,
+          "timestamp": 1790623764267,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24937,
+          "timestamp": 1790623772695,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24971,
+          "timestamp": 1790623793097,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24992,
+          "timestamp": 1790623805678,
+          "from": 512,
+          "to": 1792
+        },
+        {
+          "tick": 24993,
+          "timestamp": 1790623806273,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 25008,
+          "timestamp": 1790623815294,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 25016,
+          "timestamp": 1790623820082,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 25028,
+          "timestamp": 1790623827277,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25036,
+          "timestamp": 1790623832096,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 25057,
+          "timestamp": 1790623844711,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 25065,
+          "timestamp": 1790623849499,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25081,
+          "timestamp": 1790623859109,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 25106,
+          "timestamp": 1790623874106,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 25153,
+          "timestamp": 1790623902305,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25173,
+          "timestamp": 1790623914322,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 25198,
+          "timestamp": 1790623929312,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 25215,
+          "timestamp": 1790623939523,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25238,
+          "timestamp": 1790623953351,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 25259,
+          "timestamp": 1790623965940,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25273,
+          "timestamp": 1790623974337,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 25282,
+          "timestamp": 1790623979739,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 25319,
+          "timestamp": 1790624001931,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25336,
+          "timestamp": 1790624012146,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 25361,
+          "timestamp": 1790624027129,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25387,
+          "timestamp": 1790624042757,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25402,
+          "timestamp": 1790624051740,
+          "from": 512,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1516,
+      "samples": 1516,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 497,
+      "estimateRevisions": 4,
+      "spawnUid": "d312fe3e-2920-4dce-a505-9ce94f611faf",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 1569,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 363
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 14042,
+      "visibleId": 14042,
+      "name": "Bat",
+      "size": 1,
+      "combatLevel": 6,
+      "spawn": {
+        "x": 1343,
+        "y": 2888,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 10475,
+          "timestamp": 1790602164196,
+          "to": 256
+        },
+        {
+          "tick": 10574,
+          "timestamp": 1790602223605,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 10590,
+          "timestamp": 1790602233219,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 10611,
+          "timestamp": 1790602245807,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 10624,
+          "timestamp": 1790602253619,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24041,
+          "timestamp": 1790623234963,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24058,
+          "timestamp": 1790623245137,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24124,
+          "timestamp": 1790623284768,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24142,
+          "timestamp": 1790623295557,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 24174,
+          "timestamp": 1790623314760,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 24196,
+          "timestamp": 1790623327973,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24209,
+          "timestamp": 1790623335780,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24284,
+          "timestamp": 1790623380786,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24301,
+          "timestamp": 1790623390996,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24319,
+          "timestamp": 1790623401775,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24329,
+          "timestamp": 1790623407808,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24334,
+          "timestamp": 1790623410792,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24343,
+          "timestamp": 1790623416194,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24361,
+          "timestamp": 1790623426987,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 24403,
+          "timestamp": 1790623452197,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 24421,
+          "timestamp": 1790623463019,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24439,
+          "timestamp": 1790623473813,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24463,
+          "timestamp": 1790623488219,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24475,
+          "timestamp": 1790623495422,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24491,
+          "timestamp": 1790623505034,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 24507,
+          "timestamp": 1790623514627,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 24521,
+          "timestamp": 1790623523022,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24534,
+          "timestamp": 1790623530829,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24543,
+          "timestamp": 1790623536241,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24558,
+          "timestamp": 1790623545234,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24579,
+          "timestamp": 1790623557839,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24595,
+          "timestamp": 1790623567436,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24621,
+          "timestamp": 1790623583038,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 24633,
+          "timestamp": 1790623590255,
+          "from": 256,
+          "to": 768
+        },
+        {
+          "tick": 24640,
+          "timestamp": 1790623594451,
+          "from": 768,
+          "to": 512
+        },
+        {
+          "tick": 24679,
+          "timestamp": 1790623617856,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24686,
+          "timestamp": 1790623622053,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24699,
+          "timestamp": 1790623629861,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 24715,
+          "timestamp": 1790623639448,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 24724,
+          "timestamp": 1790623644843,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24782,
+          "timestamp": 1790623679658,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24808,
+          "timestamp": 1790623695274,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24819,
+          "timestamp": 1790623701868,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24868,
+          "timestamp": 1790623731275,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24902,
+          "timestamp": 1790623751674,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24917,
+          "timestamp": 1790623760676,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 24929,
+          "timestamp": 1790623767880,
+          "from": 1280,
+          "to": 256
+        },
+        {
+          "tick": 24952,
+          "timestamp": 1790623781679,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 24960,
+          "timestamp": 1790623786474,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24986,
+          "timestamp": 1790623802079,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 25025,
+          "timestamp": 1790623825509,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25040,
+          "timestamp": 1790623834492,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25048,
+          "timestamp": 1790623839286,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25071,
+          "timestamp": 1790623853101,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25090,
+          "timestamp": 1790623864496,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 25098,
+          "timestamp": 1790623869302,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 25141,
+          "timestamp": 1790623895120,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25173,
+          "timestamp": 1790623914322,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 25195,
+          "timestamp": 1790623927513,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 25210,
+          "timestamp": 1790623936541,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 25236,
+          "timestamp": 1790623952103,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 25270,
+          "timestamp": 1790623972533,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 25320,
+          "timestamp": 1790624002534,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25346,
+          "timestamp": 1790624018104,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 25358,
+          "timestamp": 1790624025334,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 25371,
+          "timestamp": 1790624033125,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25380,
+          "timestamp": 1790624038531,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25424,
+          "timestamp": 1790624064940,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25442,
+          "timestamp": 1790624075775,
+          "from": 0,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1479,
+      "samples": 1479,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 505,
+      "estimateRevisions": 2,
+      "spawnUid": "5e670dcc-03f5-4682-88d6-8ef05b258423",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 820,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 361
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 13968,
+      "visibleId": 13968,
+      "name": "Porcupine",
+      "size": 1,
+      "combatLevel": 4,
+      "spawn": {
+        "x": 1340,
+        "y": 2906,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 8,
+      "static": false,
+      "orientation": 1024,
+      "facing": "NORTH",
+      "orientationChanges": [
+        {
+          "tick": 10476,
+          "timestamp": 1790602164793,
+          "to": 1024
+        },
+        {
+          "tick": 10491,
+          "timestamp": 1790602173804,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 10514,
+          "timestamp": 1790602187590,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 10529,
+          "timestamp": 1790602196584,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 10558,
+          "timestamp": 1790602214010,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 10567,
+          "timestamp": 1790602219409,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 10576,
+          "timestamp": 1790602224812,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 10593,
+          "timestamp": 1790602234996,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 10604,
+          "timestamp": 1790602241602,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24032,
+          "timestamp": 1790623229557,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24044,
+          "timestamp": 1790623236750,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24055,
+          "timestamp": 1790623243662,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24064,
+          "timestamp": 1790623248750,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24085,
+          "timestamp": 1790623261355,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24092,
+          "timestamp": 1790623265568,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24101,
+          "timestamp": 1790623270957,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24114,
+          "timestamp": 1790623278780,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 24139,
+          "timestamp": 1790623293761,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 24154,
+          "timestamp": 1790623302755,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24167,
+          "timestamp": 1790623310573,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 24195,
+          "timestamp": 1790623327343,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 24211,
+          "timestamp": 1790623336962,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24232,
+          "timestamp": 1790623349566,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24250,
+          "timestamp": 1790623360347,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24258,
+          "timestamp": 1790623365180,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24267,
+          "timestamp": 1790623370599,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 24278,
+          "timestamp": 1790623377185,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 24286,
+          "timestamp": 1790623381987,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24298,
+          "timestamp": 1790623389197,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24320,
+          "timestamp": 1790623402398,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24339,
+          "timestamp": 1790623413794,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24351,
+          "timestamp": 1790623420989,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24369,
+          "timestamp": 1790623431820,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 24394,
+          "timestamp": 1790623446805,
+          "from": 1792,
+          "to": 1024
+        },
+        {
+          "tick": 24403,
+          "timestamp": 1790623452197,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 24431,
+          "timestamp": 1790623469007,
+          "from": 256,
+          "to": 768
+        },
+        {
+          "tick": 24449,
+          "timestamp": 1790623479801,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 24464,
+          "timestamp": 1790623488807,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24471,
+          "timestamp": 1790623493026,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24500,
+          "timestamp": 1790623510404,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24559,
+          "timestamp": 1790623545828,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24581,
+          "timestamp": 1790623559031,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24587,
+          "timestamp": 1790623562635,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24637,
+          "timestamp": 1790623592646,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24641,
+          "timestamp": 1790623595037,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24654,
+          "timestamp": 1790623602845,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24680,
+          "timestamp": 1790623618456,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24708,
+          "timestamp": 1790623635249,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 24722,
+          "timestamp": 1790623643658,
+          "from": 768,
+          "to": 1024
+        },
+        {
+          "tick": 24741,
+          "timestamp": 1790623655063,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24746,
+          "timestamp": 1790623658055,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24836,
+          "timestamp": 1790623712072,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 24851,
+          "timestamp": 1790623721081,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 24866,
+          "timestamp": 1790623730083,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24871,
+          "timestamp": 1790623733080,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24909,
+          "timestamp": 1790623755870,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 24945,
+          "timestamp": 1790623777494,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 24949,
+          "timestamp": 1790623779898,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 24976,
+          "timestamp": 1790623796100,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 24982,
+          "timestamp": 1790623799691,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24996,
+          "timestamp": 1790623808098,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25009,
+          "timestamp": 1790623815883,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25034,
+          "timestamp": 1790623830899,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 25039,
+          "timestamp": 1790623833889,
+          "from": 256,
+          "to": 1792
+        },
+        {
+          "tick": 25062,
+          "timestamp": 1790623847687,
+          "from": 1792,
+          "to": 1536
+        },
+        {
+          "tick": 25071,
+          "timestamp": 1790623853101,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25093,
+          "timestamp": 1790623866294,
+          "from": 512,
+          "to": 768
+        },
+        {
+          "tick": 25118,
+          "timestamp": 1790623881302,
+          "from": 768,
+          "to": 1536
+        },
+        {
+          "tick": 25158,
+          "timestamp": 1790623905311,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25176,
+          "timestamp": 1790623916104,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25192,
+          "timestamp": 1790623925716,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 25199,
+          "timestamp": 1790623929913,
+          "from": 1792,
+          "to": 512
+        },
+        {
+          "tick": 25214,
+          "timestamp": 1790623938933,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25251,
+          "timestamp": 1790623961126,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 25265,
+          "timestamp": 1790623969532,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 25275,
+          "timestamp": 1790623975518,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 25299,
+          "timestamp": 1790623989926,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25365,
+          "timestamp": 1790624029531,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 25394,
+          "timestamp": 1790624046931,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 25433,
+          "timestamp": 1790624070307,
+          "from": 1536,
+          "to": 1024
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1532,
+      "samples": 1532,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 124,
+      "estimateRevisions": 3,
+      "spawnUid": "54280f68-ffda-4f18-bd6c-9753284e5eef",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 816,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 363
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 14042,
+      "visibleId": 14042,
+      "name": "Bat",
+      "size": 1,
+      "combatLevel": 6,
+      "spawn": {
+        "x": 1340,
+        "y": 2893,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 9,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 10479,
+          "timestamp": 1790602166606,
+          "to": 1536
+        },
+        {
+          "tick": 10509,
+          "timestamp": 1790602184609,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 10566,
+          "timestamp": 1790602218815,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 10572,
+          "timestamp": 1790602222394,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 10591,
+          "timestamp": 1790602233802,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24040,
+          "timestamp": 1790623234362,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24050,
+          "timestamp": 1790623240350,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24063,
+          "timestamp": 1790623248156,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24075,
+          "timestamp": 1790623255345,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24085,
+          "timestamp": 1790623261355,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24097,
+          "timestamp": 1790623268550,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24143,
+          "timestamp": 1790623296171,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24225,
+          "timestamp": 1790623345390,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24256,
+          "timestamp": 1790623363976,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24265,
+          "timestamp": 1790623369378,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24322,
+          "timestamp": 1790623403588,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 24361,
+          "timestamp": 1790623426987,
+          "from": 768,
+          "to": 1792
+        },
+        {
+          "tick": 24377,
+          "timestamp": 1790623436607,
+          "from": 1792,
+          "to": 1024
+        },
+        {
+          "tick": 24408,
+          "timestamp": 1790623455218,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24419,
+          "timestamp": 1790623461813,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24423,
+          "timestamp": 1790623464227,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24451,
+          "timestamp": 1790623481009,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24461,
+          "timestamp": 1790623487016,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24507,
+          "timestamp": 1790623514627,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24540,
+          "timestamp": 1790623534428,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24561,
+          "timestamp": 1790623547004,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24569,
+          "timestamp": 1790623551825,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 24577,
+          "timestamp": 1790623556650,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 24593,
+          "timestamp": 1790623566233,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24656,
+          "timestamp": 1790623604048,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24666,
+          "timestamp": 1790623610055,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24676,
+          "timestamp": 1790623616053,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24684,
+          "timestamp": 1790623620843,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24693,
+          "timestamp": 1790623626259,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24715,
+          "timestamp": 1790623639448,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24728,
+          "timestamp": 1790623647276,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24745,
+          "timestamp": 1790623657446,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24750,
+          "timestamp": 1790623660424,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24771,
+          "timestamp": 1790623673063,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24797,
+          "timestamp": 1790623688668,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 24809,
+          "timestamp": 1790623695878,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 24819,
+          "timestamp": 1790623701868,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24846,
+          "timestamp": 1790623718056,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24856,
+          "timestamp": 1790623724077,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24875,
+          "timestamp": 1790623735472,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24903,
+          "timestamp": 1790623752276,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24913,
+          "timestamp": 1790623758280,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24932,
+          "timestamp": 1790623769668,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24964,
+          "timestamp": 1790623788878,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24984,
+          "timestamp": 1790623800895,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24999,
+          "timestamp": 1790623809892,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 25013,
+          "timestamp": 1790623818297,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25114,
+          "timestamp": 1790623878919,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25125,
+          "timestamp": 1790623885511,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25135,
+          "timestamp": 1790623891509,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 25149,
+          "timestamp": 1790623899921,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 25174,
+          "timestamp": 1790623914915,
+          "from": 1792,
+          "to": 0
+        },
+        {
+          "tick": 25247,
+          "timestamp": 1790623958723,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 25253,
+          "timestamp": 1790623962334,
+          "from": 512,
+          "to": 256
+        },
+        {
+          "tick": 25268,
+          "timestamp": 1790623971322,
+          "from": 256,
+          "to": 1536
+        },
+        {
+          "tick": 25287,
+          "timestamp": 1790623982752,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 25318,
+          "timestamp": 1790624001317,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 25328,
+          "timestamp": 1790624007339,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25345,
+          "timestamp": 1790624017538,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25360,
+          "timestamp": 1790624026543,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25384,
+          "timestamp": 1790624040929,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 25392,
+          "timestamp": 1790624045754,
+          "from": 0,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1477,
+      "samples": 1477,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 809,
+      "estimateRevisions": 8,
+      "spawnUid": "8597a970-73f3-467e-9404-52bfa347f428",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 812,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 361
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 12972,
+      "visibleId": 12972,
+      "name": "Green skink",
+      "size": 1,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1339,
+        "y": 2908,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 13,
+      "static": false,
+      "orientation": 1280,
+      "facing": "NORTH_EAST",
+      "orientationChanges": [
+        {
+          "tick": 10479,
+          "timestamp": 1790602166606,
+          "to": 0
+        },
+        {
+          "tick": 10494,
+          "timestamp": 1790602175609,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 10508,
+          "timestamp": 1790602183994,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 10557,
+          "timestamp": 1790602213409,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 10595,
+          "timestamp": 1790602236195,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 24036,
+          "timestamp": 1790623231951,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 24090,
+          "timestamp": 1790623264372,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24205,
+          "timestamp": 1790623333376,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24216,
+          "timestamp": 1790623339981,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 24238,
+          "timestamp": 1790623353178,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 24249,
+          "timestamp": 1790623359773,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24277,
+          "timestamp": 1790623376566,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24298,
+          "timestamp": 1790623389197,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 24310,
+          "timestamp": 1790623396395,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 24330,
+          "timestamp": 1790623408385,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24341,
+          "timestamp": 1790623415010,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24357,
+          "timestamp": 1790623424594,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24369,
+          "timestamp": 1790623431820,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24412,
+          "timestamp": 1790623457616,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24427,
+          "timestamp": 1790623466617,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24453,
+          "timestamp": 1790623482229,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24525,
+          "timestamp": 1790623525432,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24534,
+          "timestamp": 1790623530829,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 24554,
+          "timestamp": 1790623542827,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 24571,
+          "timestamp": 1790623553034,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24580,
+          "timestamp": 1790623558439,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24587,
+          "timestamp": 1790623562635,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 24597,
+          "timestamp": 1790623568625,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 24682,
+          "timestamp": 1790623619638,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24709,
+          "timestamp": 1790623635844,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24719,
+          "timestamp": 1790623641860,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24735,
+          "timestamp": 1790623651446,
+          "from": 1536,
+          "to": 768
+        },
+        {
+          "tick": 24753,
+          "timestamp": 1790623662258,
+          "from": 768,
+          "to": 1024
+        },
+        {
+          "tick": 24758,
+          "timestamp": 1790623665271,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24788,
+          "timestamp": 1790623683260,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24854,
+          "timestamp": 1790623722863,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24879,
+          "timestamp": 1790623737866,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24890,
+          "timestamp": 1790623744470,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24906,
+          "timestamp": 1790623754086,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24926,
+          "timestamp": 1790623766082,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24935,
+          "timestamp": 1790623771493,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24979,
+          "timestamp": 1790623797885,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25001,
+          "timestamp": 1790623811092,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 25017,
+          "timestamp": 1790623820684,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 25045,
+          "timestamp": 1790623837503,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 25055,
+          "timestamp": 1790623843491,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25088,
+          "timestamp": 1790623863290,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25108,
+          "timestamp": 1790623875306,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 25123,
+          "timestamp": 1790623884317,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25135,
+          "timestamp": 1790623891509,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25148,
+          "timestamp": 1790623899326,
+          "from": 1536,
+          "to": 256
+        },
+        {
+          "tick": 25187,
+          "timestamp": 1790623922728,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 25202,
+          "timestamp": 1790623931706,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 25224,
+          "timestamp": 1790623944961,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 25235,
+          "timestamp": 1790623951542,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 25250,
+          "timestamp": 1790623960523,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 25260,
+          "timestamp": 1790623966531,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25279,
+          "timestamp": 1790623977938,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25293,
+          "timestamp": 1790623986339,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25309,
+          "timestamp": 1790623995931,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 25358,
+          "timestamp": 1790624025334,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 25375,
+          "timestamp": 1790624035537,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 25398,
+          "timestamp": 1790624049335,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25418,
+          "timestamp": 1790624061339,
+          "from": 1536,
+          "to": 1280
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1492,
+      "samples": 1492,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 404,
+      "estimateRevisions": 5,
+      "spawnUid": "6cd3151e-f09d-4d80-84d5-fdb8720ef68c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 1570,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 363
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 3
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 14042,
+      "visibleId": 14042,
+      "name": "Bat",
+      "size": 1,
+      "combatLevel": 6,
+      "spawn": {
+        "x": 1336,
+        "y": 2890,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 6,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 10482,
+          "timestamp": 1790602168386,
+          "to": 512
+        },
+        {
+          "tick": 10490,
+          "timestamp": 1790602173197,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 10571,
+          "timestamp": 1790602221784,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 10585,
+          "timestamp": 1790602230193,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 10599,
+          "timestamp": 1790602238608,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 10604,
+          "timestamp": 1790602241602,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24039,
+          "timestamp": 1790623233732,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24066,
+          "timestamp": 1790623249947,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24080,
+          "timestamp": 1790623258358,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24106,
+          "timestamp": 1790623273948,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24138,
+          "timestamp": 1790623293172,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24155,
+          "timestamp": 1790623303363,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24221,
+          "timestamp": 1790623342992,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24237,
+          "timestamp": 1790623352568,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24247,
+          "timestamp": 1790623358566,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24275,
+          "timestamp": 1790623375388,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 24280,
+          "timestamp": 1790623378381,
+          "from": 256,
+          "to": 1024
+        },
+        {
+          "tick": 24303,
+          "timestamp": 1790623392176,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24310,
+          "timestamp": 1790623396395,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24336,
+          "timestamp": 1790623412006,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24374,
+          "timestamp": 1790623434806,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24401,
+          "timestamp": 1790623451012,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24406,
+          "timestamp": 1790623454018,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24423,
+          "timestamp": 1790623464227,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24447,
+          "timestamp": 1790623478620,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24481,
+          "timestamp": 1790623499034,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24492,
+          "timestamp": 1790623505615,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24525,
+          "timestamp": 1790623525432,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24556,
+          "timestamp": 1790623544029,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24589,
+          "timestamp": 1790623563832,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24618,
+          "timestamp": 1790623581255,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24629,
+          "timestamp": 1790623587837,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24636,
+          "timestamp": 1790623592049,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24694,
+          "timestamp": 1790623626867,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24716,
+          "timestamp": 1790623640024,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24724,
+          "timestamp": 1790623644843,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24749,
+          "timestamp": 1790623659866,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24761,
+          "timestamp": 1790623667068,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 24772,
+          "timestamp": 1790623673657,
+          "from": 1280,
+          "to": 512
+        },
+        {
+          "tick": 24787,
+          "timestamp": 1790623682661,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24801,
+          "timestamp": 1790623691075,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24815,
+          "timestamp": 1790623699462,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24833,
+          "timestamp": 1790623710265,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24875,
+          "timestamp": 1790623735472,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 24897,
+          "timestamp": 1790623748679,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24924,
+          "timestamp": 1790623764870,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24934,
+          "timestamp": 1790623770878,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24948,
+          "timestamp": 1790623779272,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24964,
+          "timestamp": 1790623788878,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 24973,
+          "timestamp": 1790623794285,
+          "from": 1280,
+          "to": 0
+        },
+        {
+          "tick": 25001,
+          "timestamp": 1790623811092,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 25009,
+          "timestamp": 1790623815883,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 25039,
+          "timestamp": 1790623833889,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 25066,
+          "timestamp": 1790623850104,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 25084,
+          "timestamp": 1790623860888,
+          "from": 1792,
+          "to": 0
+        },
+        {
+          "tick": 25091,
+          "timestamp": 1790623865099,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 25105,
+          "timestamp": 1790623873509,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25127,
+          "timestamp": 1790623886711,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 25189,
+          "timestamp": 1790623923911,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25205,
+          "timestamp": 1790623933528,
+          "from": 0,
+          "to": 256
+        },
+        {
+          "tick": 25211,
+          "timestamp": 1790623937128,
+          "from": 256,
+          "to": 0
+        },
+        {
+          "tick": 25223,
+          "timestamp": 1790623944336,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 25258,
+          "timestamp": 1790623965328,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 25269,
+          "timestamp": 1790623971938,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25279,
+          "timestamp": 1790623977938,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25297,
+          "timestamp": 1790623988706,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25310,
+          "timestamp": 1790623996539,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25315,
+          "timestamp": 1790623999528,
+          "from": 0,
+          "to": 768
+        },
+        {
+          "tick": 25343,
+          "timestamp": 1790624016352,
+          "from": 768,
+          "to": 1024
+        },
+        {
+          "tick": 25391,
+          "timestamp": 1790624045153,
+          "from": 1024,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1476,
+      "samples": 1476,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 1182,
+      "estimateRevisions": 5,
+      "spawnUid": "54b98f59-a825-485d-baea-29e49568d5bf",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 809,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 361
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 14042,
+      "visibleId": 14042,
+      "name": "Bat",
+      "size": 1,
+      "combatLevel": 6,
+      "spawn": {
+        "x": 1336,
+        "y": 2895,
+        "plane": 0
+      },
+      "spawnConfirmed": true,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 512,
+      "facing": "WEST",
+      "orientationChanges": [
+        {
+          "tick": 10482,
+          "timestamp": 1790602168386,
+          "to": 1536
+        },
+        {
+          "tick": 10491,
+          "timestamp": 1790602173804,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 10498,
+          "timestamp": 1790602178013,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 10510,
+          "timestamp": 1790602185190,
+          "from": 1792,
+          "to": 1024
+        },
+        {
+          "tick": 10567,
+          "timestamp": 1790602219409,
+          "from": 1024,
+          "to": 1280
+        },
+        {
+          "tick": 10571,
+          "timestamp": 1790602221784,
+          "from": 1280,
+          "to": 1024
+        },
+        {
+          "tick": 10608,
+          "timestamp": 1790602244000,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24052,
+          "timestamp": 1790623241564,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24058,
+          "timestamp": 1790623245137,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24129,
+          "timestamp": 1790623287756,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24149,
+          "timestamp": 1790623299766,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24181,
+          "timestamp": 1790623318974,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24207,
+          "timestamp": 1790623334568,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24215,
+          "timestamp": 1790623339377,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24228,
+          "timestamp": 1790623347196,
+          "from": 0,
+          "to": 512
+        },
+        {
+          "tick": 24254,
+          "timestamp": 1790623362793,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24277,
+          "timestamp": 1790623376566,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24384,
+          "timestamp": 1790623440785,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24397,
+          "timestamp": 1790623448603,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24424,
+          "timestamp": 1790623464804,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24441,
+          "timestamp": 1790623475011,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24507,
+          "timestamp": 1790623514627,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 24531,
+          "timestamp": 1790623529044,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 24564,
+          "timestamp": 1790623548806,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24593,
+          "timestamp": 1790623566233,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24605,
+          "timestamp": 1790623573446,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24615,
+          "timestamp": 1790623579443,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24635,
+          "timestamp": 1790623591447,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 24646,
+          "timestamp": 1790623598053,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 24651,
+          "timestamp": 1790623601064,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 24665,
+          "timestamp": 1790623609445,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24679,
+          "timestamp": 1790623617856,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 24693,
+          "timestamp": 1790623626259,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24705,
+          "timestamp": 1790623633456,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24718,
+          "timestamp": 1790623641262,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 24755,
+          "timestamp": 1790623663470,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 24780,
+          "timestamp": 1790623678447,
+          "from": 1536,
+          "to": 1792
+        },
+        {
+          "tick": 24788,
+          "timestamp": 1790623683260,
+          "from": 1792,
+          "to": 1024
+        },
+        {
+          "tick": 24800,
+          "timestamp": 1790623690456,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 24869,
+          "timestamp": 1790623731864,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 24987,
+          "timestamp": 1790623802695,
+          "from": 1024,
+          "to": 256
+        },
+        {
+          "tick": 25003,
+          "timestamp": 1790623812293,
+          "from": 256,
+          "to": 512
+        },
+        {
+          "tick": 25009,
+          "timestamp": 1790623815883,
+          "from": 512,
+          "to": 1280
+        },
+        {
+          "tick": 25024,
+          "timestamp": 1790623824885,
+          "from": 1280,
+          "to": 768
+        },
+        {
+          "tick": 25028,
+          "timestamp": 1790623827277,
+          "from": 768,
+          "to": 0
+        },
+        {
+          "tick": 25061,
+          "timestamp": 1790623847119,
+          "from": 0,
+          "to": 1536
+        },
+        {
+          "tick": 25107,
+          "timestamp": 1790623874705,
+          "from": 1536,
+          "to": 1024
+        },
+        {
+          "tick": 25125,
+          "timestamp": 1790623885511,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 25133,
+          "timestamp": 1790623890283,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25153,
+          "timestamp": 1790623902305,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25199,
+          "timestamp": 1790623929913,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25211,
+          "timestamp": 1790623937128,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25266,
+          "timestamp": 1790623970139,
+          "from": 512,
+          "to": 1536
+        },
+        {
+          "tick": 25317,
+          "timestamp": 1790624000733,
+          "from": 1536,
+          "to": 512
+        },
+        {
+          "tick": 25328,
+          "timestamp": 1790624007339,
+          "from": 512,
+          "to": 1024
+        },
+        {
+          "tick": 25353,
+          "timestamp": 1790624022329,
+          "from": 1024,
+          "to": 512
+        },
+        {
+          "tick": 25359,
+          "timestamp": 1790624025954,
+          "from": 512,
+          "to": 0
+        },
+        {
+          "tick": 25374,
+          "timestamp": 1790624034939,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 25390,
+          "timestamp": 1790624044534,
+          "from": 1024,
+          "to": 0
+        },
+        {
+          "tick": 25398,
+          "timestamp": 1790624049335,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 25413,
+          "timestamp": 1790624058336,
+          "from": 1024,
+          "to": 1792
+        },
+        {
+          "tick": 25426,
+          "timestamp": 1790624066142,
+          "from": 1792,
+          "to": 512
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 1490,
+      "samples": 1490,
+      "complete": true,
+      "spawnMethod": "confirmed",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 1042,
+      "estimateRevisions": 6,
+      "spawnUid": "d3cc5681-71ba-48bc-ba63-416c9710bd6c",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 811,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 167,
+        "y": 361
+      },
+      "chunkInRegion": {
+        "x": 7,
+        "y": 1
+      },
+      "movedAcrossBorder": false
+    },
+    {
+      "npcId": 281,
+      "visibleId": 281,
+      "name": "Gull",
+      "size": 2,
+      "combatLevel": 0,
+      "spawn": {
+        "x": 1326,
+        "y": 2884,
+        "plane": 0
+      },
+      "spawnConfirmed": false,
+      "wanderRadius": 7,
+      "static": false,
+      "orientation": 1536,
+      "facing": "EAST",
+      "orientationChanges": [
+        {
+          "tick": 24050,
+          "timestamp": 1790623240350,
+          "to": 0
+        },
+        {
+          "tick": 24063,
+          "timestamp": 1790623248156,
+          "from": 0,
+          "to": 1024
+        },
+        {
+          "tick": 24187,
+          "timestamp": 1790623322579,
+          "from": 1024,
+          "to": 1536
+        },
+        {
+          "tick": 24766,
+          "timestamp": 1790623670064,
+          "from": 1536,
+          "to": 1280
+        },
+        {
+          "tick": 25102,
+          "timestamp": 1790623871722,
+          "from": 1280,
+          "to": 1536
+        },
+        {
+          "tick": 25155,
+          "timestamp": 1790623903488,
+          "from": 1536,
+          "to": 0
+        },
+        {
+          "tick": 25270,
+          "timestamp": 1790623972533,
+          "from": 0,
+          "to": 1536
+        }
+      ],
+      "shop": {
+        "status": "none"
+      },
+      "ambiguous": false,
+      "instanced": false,
+      "ticksObserved": 137,
+      "samples": 137,
+      "complete": true,
+      "spawnMethod": "estimated",
+      "completedUnder": "estimate",
+      "ticksSinceBoxGrew": 59,
+      "estimateRevisions": 2,
+      "spawnUid": "4909489b-ae15-436d-8578-d98b27f21cd4",
+      "mergedFrom": [],
+      "jagexIndex": [
+        {
+          "world": 600,
+          "index": 808,
+          "revision": 240
+        }
+      ],
+      "regionId": 5165,
+      "chunk": {
+        "x": 165,
+        "y": 360
+      },
+      "chunkInRegion": {
+        "x": 5,
+        "y": 0
+      },
+      "movedAcrossBorder": false
+    }
+  ],
+  "groundItems": [
+    {
+      "itemId": 1993,
+      "name": "Jug of wine",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1315,
+        "y": 2917,
+        "plane": 0
+      },
+      "height": 96,
+      "surface": {
+        "kind": "game",
+        "id": 55033,
+        "type": 10,
+        "orientation": 2,
+        "supportsItems": true,
+        "x": 1314,
+        "y": 2917,
+        "plane": 0,
+        "sizeX": 2,
+        "sizeY": 1
+      },
+      "tileObjects": [
+        {
+          "kind": "game",
+          "id": 55033,
+          "type": 10,
+          "orientation": 2,
+          "supportsItems": true,
+          "x": 1314,
+          "y": 2917,
+          "plane": 0,
+          "sizeX": 2,
+          "sizeY": 1
+        },
+        {
+          "kind": "wall",
+          "id": 54854,
+          "type": 0,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1315,
+          "y": 2917,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        },
+        {
+          "kind": "ground",
+          "id": 3949,
+          "type": 22,
+          "orientation": 3,
+          "supportsItems": true,
+          "x": 1315,
+          "y": 2917,
+          "plane": 0,
+          "sizeX": 1,
+          "sizeY": 1
+        }
+      ],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 10,
+      "itemSpawnUid": "b94dc06a-1c58-43f8-901d-aa67e0f6c84f",
+      "regionId": 5165,
+      "chunk": {
+        "x": 164,
+        "y": 364
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 4
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1308,
+        "y": 2934,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 6,
+      "itemSpawnUid": "fea63c36-9746-47d8-8b24-1d9609948487",
+      "regionId": 5165,
+      "chunk": {
+        "x": 163,
+        "y": 366
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 6
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1303,
+        "y": 2940,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 4,
+      "itemSpawnUid": "47cc15bd-2699-425b-8dd9-feef14589e23",
+      "regionId": 5165,
+      "chunk": {
+        "x": 162,
+        "y": 367
+      },
+      "chunkInRegion": {
+        "x": 2,
+        "y": 7
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1315,
+        "y": 2885,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 7,
+      "itemSpawnUid": "5a51d8ab-11a2-4eaf-bfc5-e0c0bef6e9ff",
+      "regionId": 5165,
+      "chunk": {
+        "x": 164,
+        "y": 360
+      },
+      "chunkInRegion": {
+        "x": 4,
+        "y": 0
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1307,
+        "y": 2896,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 3,
+      "itemSpawnUid": "54ff2076-d4e2-40fe-ad34-d4afb6a9c728",
+      "regionId": 5165,
+      "chunk": {
+        "x": 163,
+        "y": 362
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 2
+      }
+    },
+    {
+      "itemId": 401,
+      "name": "Seaweed",
+      "quantity": 1,
+      "count": 1,
+      "spawn": {
+        "x": 1306,
+        "y": 2884,
+        "plane": 0
+      },
+      "height": 0,
+      "tileObjects": [],
+      "respawnSamples": [],
+      "spawnObserved": false,
+      "worldSpawn": true,
+      "instanced": false,
+      "timesSeen": 1,
+      "itemSpawnUid": "03b44479-9015-479b-bb01-d14ca6e415e5",
+      "regionId": 5165,
+      "chunk": {
+        "x": 163,
+        "y": 360
+      },
+      "chunkInRegion": {
+        "x": 3,
+        "y": 0
+      }
+    }
+  ],
+  "deletedUids": [],
+  "pools": [],
+  "objects": []
+}
